@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StorePriceInfo-5 1`] = `
+Array [
+  <div
+    className="src-components-StorePriceInfo-styles__StorePriceInfoNormal___2s64J src-components-StorePriceInfo-styles__StorePriceInfo___3mzqO src-components-common-styles-typography__fontFamilyCapsule___3HgYh src-components-StorePriceInfo-styles__sizeM___3OgPK"
+  >
+    Free
+  </div>,
+  <div
+    className="src-components-StorePriceInfo-styles__StorePriceInfoDiscount___w_a2w src-components-StorePriceInfo-styles__StorePriceInfo___3mzqO src-components-common-styles-typography__fontFamilyCapsule___3HgYh src-components-StorePriceInfo-styles__sizeS___3QCFz"
+  >
+    <div
+      className="src-components-StorePriceInfo-styles__discount___W1b8o"
+    />
+    <div
+      className="src-components-StorePriceInfo-styles__prices___2CCDC"
+    >
+      <div
+        className="src-components-StorePriceInfo-styles__priceOriginal___1TlYx"
+      />
+      <div
+        className="src-components-StorePriceInfo-styles__priceFinal___suo-c"
+      />
+    </div>
+  </div>,
+]
+`;

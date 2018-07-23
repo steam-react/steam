@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LanguageSelector-0 1`] = `
+<div
+  className="src-components-LanguageSelector-styles__LanguageSelector___2sEPu src-components-Pulldown-styles__Pulldown___3mAxJ"
+>
+  <button
+    className="src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeM___3Iv3Y"
+  >
+    <span
+      className="src-components-Button-styles__caption___23qri"
+    >
+      Language
+    </span>
+  </button>
+  <div
+    className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignLeft___1uzGS src-components-Pulldown-styles__popupOpensDown___1OR6f"
+  />
+</div>
+`;

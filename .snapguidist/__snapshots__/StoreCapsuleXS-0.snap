@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoreCapsuleXS-0 1`] = `
+<a
+  className="src-components-StoreCapsuleXS-styles__StoreCapsuleXS___zjBQu"
+  href="#"
+>
+  <img
+    className="src-components-StoreCapsuleXS-styles__picture___UDmtk"
+    src="/screenshots/capsule_xs_image.jpg"
+  />
+  <div
+    className="src-components-StoreCapsuleXS-styles__info___12dCI"
+  >
+    <div
+      className="src-components-StorePriceInfo-styles__StorePriceInfoDiscount___w_a2w src-components-StorePriceInfo-styles__StorePriceInfo___3mzqO src-components-common-styles-typography__fontFamilyCapsule___3HgYh src-components-StorePriceInfo-styles__sizeM___3OgPK"
+    >
+      <div
+        className="src-components-StorePriceInfo-styles__discount___W1b8o"
+      >
+        -66%
+      </div>
+      <div
+        className="src-components-StorePriceInfo-styles__prices___2CCDC"
+      >
+        <div
+          className="src-components-StorePriceInfo-styles__priceOriginal___1TlYx"
+        >
+          $29.99
+        </div>
+        <div
+          className="src-components-StorePriceInfo-styles__priceFinal___suo-c"
+        >
+          $9.99
+        </div>
+      </div>
+    </div>
+  </div>
+</a>
+`;

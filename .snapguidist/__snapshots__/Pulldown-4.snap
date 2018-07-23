@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pulldown-4 1`] = `
+<div
+  className="src-components-Pulldown-styles__Pulldown___3mAxJ"
+>
+  <button
+    className="src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeS___3v_OT"
+  >
+    <span
+      className="src-components-Button-styles__caption___23qri"
+    >
+      Pulldown
+    </span>
+  </button>
+  <div
+    className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignLeft___1uzGS src-components-Pulldown-styles__popupOpensDown___1OR6f"
+  >
+    <div
+      style={
+        Object {
+          "background": "#333",
+          "color": "#eee",
+          "padding": "10px",
+          "width": "200px",
+        }
+      }
+    >
+      <h3>
+        Nested pulldown
+      </h3>
+      <div
+        className="src-components-Pulldown-styles__Pulldown___3mAxJ"
+      >
+        <button
+          className="src-components-Button-styles__ButtonSecondary___2LSNC src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeL___3KjFL"
+        >
+          <span
+            className="src-components-Button-styles__caption___23qri"
+          >
+            Nested pulldown
+          </span>
+        </button>
+        <div
+          className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignUp___2DZHp src-components-Pulldown-styles__popupOpensRight___3trcG"
+        >
+          <div
+            style={
+              Object {
+                "color": "#333",
+                "padding": "10px",
+                "width": "120px",
+              }
+            }
+          >
+            <h3>
+              Nested!
+            </h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

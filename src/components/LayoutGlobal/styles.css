@@ -1,0 +1,75 @@
+:global
+{
+    @import '../common/styles/normalize.css';
+}
+
+html,
+body
+{
+    height: 100%;
+}
+
+body
+{
+    display: flex;
+    flex-flow: column;
+}
+
+:global #root
+{
+    display: flex;
+    flex: 1 0 auto;
+    flex-direction: column;
+}
+
+.header
+{
+    min-width: 940px;
+    padding-right: 16px;
+    padding-left: 16px;
+
+    background-color: #171a21;
+}
+
+.headerContent
+{
+    position: relative;
+
+    display: flex;
+    flex-flow: row;
+
+    width: 940px;
+    height: 104px;
+    margin: 0 auto;
+}
+
+.logo
+{
+    display: block;
+    align-self: center;
+
+    width: 176px;
+    height: 44px;
+    margin-right: 40px;
+}
+
+.navigation
+{
+    align-self: center;
+    flex-grow: 1;
+
+    margin-right: 40px;
+}
+
+.actions
+{
+    position: absolute;
+    right: 0;
+}
+
+.content
+{
+    display: flex;
+    flex: 1 0 auto;
+    flex-direction: column;
+}

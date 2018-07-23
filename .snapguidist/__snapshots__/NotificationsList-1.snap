@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotificationsList-1 1`] = `
+<div
+  className="src-components-ListView-styles__Menu___1Rjz4 src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-NotificationsList-styles__notifications___orA1V src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-ListView-styles__MenuVertical___38s9a"
+>
+  <a
+    className="src-components-NotificationsList-styles__notification___nE590"
+    href=""
+  >
+    0
+     
+    new comments
+  </a>
+  <a
+    className="src-components-NotificationsList-styles__notification___nE590"
+    href=""
+  >
+    0
+     
+    new items in your inventory
+  </a>
+  <a
+    className="src-components-NotificationsList-styles__notification___nE590"
+    href=""
+  >
+    0
+     
+    new invites
+  </a>
+  <a
+    className="src-components-NotificationsList-styles__notification___nE590"
+    href=""
+  >
+    0
+     
+    new gifts
+  </a>
+  <a
+    className="src-components-NotificationsList-styles__notification___nE590"
+    href=""
+  >
+    0
+     
+    unread chat messages
+  </a>
+</div>
+`;

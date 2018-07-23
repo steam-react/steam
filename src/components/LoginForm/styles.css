@@ -1,0 +1,155 @@
+.LoginForm
+{
+    font-size: 12px;
+
+    display: flex;
+
+    margin-bottom: 2em;
+
+    color: #c6d4df;
+
+    composes: fontFamilyText from '../common/styles/typography.css';
+}
+
+.column
+{
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+
+    padding: 16px;
+
+    background-color: rgba(0,0,0,.2);
+}
+
+.column:first-child
+{
+    width: 66%;
+    margin-right: 16px;
+}
+
+.column:last-child
+{
+    width: 34%;
+}
+
+.column p
+{
+    margin-bottom: 1.5em;
+}
+
+.wrapper
+{
+    display: flex;
+    align-self: flex-start;
+    flex-direction: row;
+}
+
+.login,
+.registration
+{
+    width: 50%;
+}
+
+.login,
+.registration,
+.info
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.login
+{
+    padding-right: 16px;
+
+    border-right: 1px solid #264959;
+}
+
+.registration
+{
+    display: flex;
+    flex-direction: column;
+
+    margin-right: 14px;
+    padding-left: 16px;
+}
+
+.heading
+{
+    font-size: 18px;
+    font-weight: normal;
+
+    margin: 0;
+    padding: 0 0 5px 0;
+
+    letter-spacing: 1px;
+    text-transform: uppercase;
+
+    color: #fff;
+
+    composes: fontFamilyHeading from '../common/styles/typography.css';
+}
+
+.info .heading
+{
+    font-weight: 300;
+
+    color: #67c1f5;
+}
+
+.info ul
+{
+    line-height: 22px;
+
+    margin: 0 0 1.5em 0;
+    padding: 0;
+
+    list-style-position: inside;
+    list-style-type: square;
+}
+
+.form .field
+{
+    display: flex;
+    flex-direction: column;
+
+    margin-bottom: 18px;
+}
+
+.form .description
+{
+    display: block;
+}
+
+.form .textInput
+{
+    font-size: 16px;
+    line-height: 21px;
+
+    display: block;
+
+    height: 18px;
+    margin: 4px 0;
+    padding: 5px;
+
+    color: #fff;
+    border: 1px solid #000;
+    border-radius: 3px;
+    background-color: rgba( 0, 0, 0, .2 );
+    box-shadow: 1px 1px 0 #45556c;
+}
+
+.btnSubmit
+{
+    align-self: flex-start;
+
+    margin-top: 14px;
+}
+
+.btnRegister
+{
+    align-self: flex-start;
+
+    margin-top: auto;
+}

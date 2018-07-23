@@ -1,0 +1,65 @@
+.NavigationGlobal
+{
+    display: flex;
+    flex-flow: row;
+
+    composes: fontFamilyMenu from '../common/styles/typography.css';
+}
+
+.itemTopLevel
+{
+    margin: 0 7px;
+    padding: 7px 0;
+}
+
+.linkTopLevel
+{
+    font-size: 14px;
+    line-height: 16px;
+
+    display: block;
+
+    text-decoration: none;
+    text-transform: uppercase;
+
+    color: #b8b6b4;
+}
+
+.linkTopLevel:hover
+{
+    color: #fff;
+}
+
+.simpleLinkTopLevel
+{
+    composes: itemTopLevel;
+    composes: linkTopLevel;
+}
+
+.simpleLinkSubmenu
+{
+    font-size: 11px;
+
+    display: block;
+
+    padding: 6px 10px 6px 0;
+
+    text-decoration: none;
+    text-transform: uppercase;
+
+    color: #b8b6b4;
+}
+
+.simpleLinkSubmenu:hover
+{
+    color: #fff;
+}
+
+.submenu
+{
+    max-width: 132px;
+    padding: 5px 15px 10px 15px;
+
+    background: #171a21;
+    box-shadow: 3px 3px 5px -3px #000;
+}

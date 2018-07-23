@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListView-1 1`] = `
+<div
+  className="src-components-ListView-styles__Menu___1Rjz4 src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-ListView-styles__MenuVertical___38s9a"
+>
+  <button
+    className="src-components-ListView-styles__MenuItem___vYAf1 src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeM___3Iv3Y"
+  >
+    <span
+      className="src-components-Button-styles__caption___23qri"
+    >
+      First
+    </span>
+  </button>
+  <button
+    className="src-components-ListView-styles__MenuItem___vYAf1 src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeM___3Iv3Y"
+  >
+    <span
+      className="src-components-Button-styles__caption___23qri"
+    >
+      Second
+    </span>
+  </button>
+  <button
+    className="src-components-ListView-styles__MenuItem___vYAf1 src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeM___3Iv3Y"
+  >
+    <span
+      className="src-components-Button-styles__caption___23qri"
+    >
+      Third
+    </span>
+  </button>
+</div>
+`;

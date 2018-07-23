@@ -1,0 +1,307 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pulldown-0 1`] = `
+Array [
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "flexGrow": 1,
+        "justifyContent": "space-between",
+      }
+    }
+  >
+    <div
+      className="src-components-Pulldown-styles__Pulldown___3mAxJ"
+    >
+      <button
+        className="src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeM___3Iv3Y"
+      >
+        <span
+          className="src-components-Button-styles__caption___23qri"
+        >
+          Pulldown
+        </span>
+      </button>
+      <div
+        className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignLeft___1uzGS src-components-Pulldown-styles__popupOpensUp___3xGU8"
+      >
+        <div
+          style={
+            Object {
+              "padding": "10px",
+              "width": "120px",
+            }
+          }
+        >
+          <h3>
+            Pulldown content
+          </h3>
+          <p>
+            Can contain any markup
+          </p>
+          <p>
+            Opens: up, align: left
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="src-components-Pulldown-styles__Pulldown___3mAxJ"
+    >
+      <button
+        className="src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeM___3Iv3Y"
+      >
+        <span
+          className="src-components-Button-styles__caption___23qri"
+        >
+          Pulldown
+        </span>
+      </button>
+      <div
+        className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignLeft___1uzGS src-components-Pulldown-styles__popupOpensDown___1OR6f"
+      >
+        <div
+          style={
+            Object {
+              "padding": "10px",
+              "width": "120px",
+            }
+          }
+        >
+          <h3>
+            Pulldown content
+          </h3>
+          <p>
+            Can contain any markup
+          </p>
+          <p>
+            Opens: down, align: left
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="src-components-Pulldown-styles__Pulldown___3mAxJ"
+    >
+      <button
+        className="src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeM___3Iv3Y"
+      >
+        <span
+          className="src-components-Button-styles__caption___23qri"
+        >
+          Pulldown
+        </span>
+      </button>
+      <div
+        className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignRight___1qxdQ src-components-Pulldown-styles__popupOpensUp___3xGU8"
+      >
+        <div
+          style={
+            Object {
+              "padding": "10px",
+              "width": "120px",
+            }
+          }
+        >
+          <h3>
+            Pulldown content
+          </h3>
+          <p>
+            Can contain any markup
+          </p>
+          <p>
+            Opens: up, align: right
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="src-components-Pulldown-styles__Pulldown___3mAxJ"
+    >
+      <button
+        className="src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeM___3Iv3Y"
+      >
+        <span
+          className="src-components-Button-styles__caption___23qri"
+        >
+          Pulldown
+        </span>
+      </button>
+      <div
+        className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignRight___1qxdQ src-components-Pulldown-styles__popupOpensDown___1OR6f"
+      >
+        <div
+          style={
+            Object {
+              "padding": "10px",
+              "width": "120px",
+            }
+          }
+        >
+          <h3>
+            Pulldown content
+          </h3>
+          <p>
+            Can contain any markup
+          </p>
+          <p>
+            Opens: down, align: right
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>,
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "flexGrow": 1,
+        "justifyContent": "space-between",
+        "marginTop": "20px",
+      }
+    }
+  >
+    <div
+      className="src-components-Pulldown-styles__Pulldown___3mAxJ"
+    >
+      <button
+        className="src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeM___3Iv3Y"
+      >
+        <span
+          className="src-components-Button-styles__caption___23qri"
+        >
+          Pulldown
+        </span>
+      </button>
+      <div
+        className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignUp___2DZHp src-components-Pulldown-styles__popupOpensRight___3trcG"
+      >
+        <div
+          style={
+            Object {
+              "padding": "10px",
+              "width": "120px",
+            }
+          }
+        >
+          <h3>
+            Pulldown content
+          </h3>
+          <p>
+            Can contain any markup
+          </p>
+          <p>
+            Opens: right, align: top
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="src-components-Pulldown-styles__Pulldown___3mAxJ"
+    >
+      <button
+        className="src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeM___3Iv3Y"
+      >
+        <span
+          className="src-components-Button-styles__caption___23qri"
+        >
+          Pulldown
+        </span>
+      </button>
+      <div
+        className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignDown___2wlxf src-components-Pulldown-styles__popupOpensRight___3trcG"
+      >
+        <div
+          style={
+            Object {
+              "padding": "10px",
+              "width": "120px",
+            }
+          }
+        >
+          <h3>
+            Pulldown content
+          </h3>
+          <p>
+            Can contain any markup
+          </p>
+          <p>
+            Opens: right, align: bottom
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="src-components-Pulldown-styles__Pulldown___3mAxJ"
+    >
+      <button
+        className="src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeM___3Iv3Y"
+      >
+        <span
+          className="src-components-Button-styles__caption___23qri"
+        >
+          Pulldown
+        </span>
+      </button>
+      <div
+        className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignUp___2DZHp src-components-Pulldown-styles__popupOpensLeft___XbAXW"
+      >
+        <div
+          style={
+            Object {
+              "padding": "10px",
+              "width": "120px",
+            }
+          }
+        >
+          <h3>
+            Pulldown content
+          </h3>
+          <p>
+            Can contain any markup
+          </p>
+          <p>
+            Opens: left, align: top
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      className="src-components-Pulldown-styles__Pulldown___3mAxJ"
+    >
+      <button
+        className="src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeM___3Iv3Y"
+      >
+        <span
+          className="src-components-Button-styles__caption___23qri"
+        >
+          Pulldown
+        </span>
+      </button>
+      <div
+        className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignDown___2wlxf src-components-Pulldown-styles__popupOpensLeft___XbAXW"
+      >
+        <div
+          style={
+            Object {
+              "padding": "10px",
+              "width": "120px",
+            }
+          }
+        >
+          <h3>
+            Pulldown content
+          </h3>
+          <p>
+            Can contain any markup
+          </p>
+          <p>
+            Opens: left, align: bottom
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;

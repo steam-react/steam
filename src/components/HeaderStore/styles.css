@@ -1,0 +1,22 @@
+.HeaderStore
+{
+    /* */
+}
+
+
+.content
+{
+    text-align: right;
+}
+
+.buttonWishlist
+{
+    margin: 8px 1px 3px;
+    padding: 0 25px;
+
+    color: #fff;
+    background-color: rgba( 255, 255, 255, .4 );
+    background-image: url('./background_wishlist.jpg');
+    background-position: -34px 20px;
+    box-shadow: 0 0 3px #000;
+}

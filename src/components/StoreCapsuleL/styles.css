@@ -1,0 +1,274 @@
+.StoreCapsule
+{
+    position: relative;
+
+    display: flex;
+    overflow: hidden;
+
+    width: 940px;
+    height: 353px;
+
+    text-decoration: none;
+
+    color: #fff;
+    background-color: #000;
+    box-shadow: 0 0 7px 0 #000;
+}
+
+.pictureMain
+{
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+
+    flex-shrink: 0;
+
+    width: 616px;
+    height: 353px;
+
+    transition: opacity .5s ease-in, visibility .5s ease-in;
+
+    opacity: 0;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    box-shadow: 0 0 10px 5px #000;
+}
+
+.pictureMainCurrent
+{
+    z-index: 2;
+
+    transition: opacity .25s ease-in, visibility .25s ease-in;
+
+    opacity: 1;
+}
+
+.pictureSecondary
+{
+    width: 162px;
+    height: 69px;
+
+    transition: opacity 50ms ease-out;
+
+    opacity: .6;
+    background-position: center center;
+    background-size: cover;
+}
+
+.pictureSecondary:hover
+{
+    opacity: 1;
+}
+
+.pictureSecondaryWrapper
+{
+    padding: 10px 10px 0 0;
+}
+
+.info
+{
+    z-index: 0;
+
+    display: flex;
+    overflow: hidden;
+    flex-direction: column;
+    flex-shrink: 1;
+    justify-content: flex-start;
+
+    width: 100%;
+    margin-left: 616px;
+
+    composes: fontFamilyCapsule from '../common/styles/typography.css';
+}
+
+.infoNoPictures .infoBody
+{
+    justify-content: center;
+}
+
+.infoBody
+{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+
+.infoFooter
+{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-grow: 0;
+    flex-shrink: 0;
+    justify-content: space-between;
+
+    height: 32px;
+    margin: 0 16px;
+}
+
+.productName
+{
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 26px;
+
+    display: flex;
+    overflow: hidden;
+    align-items: center;
+    flex-shrink: 0;
+
+    height: 59px;
+    margin: 10px 6px 0 16px;
+}
+
+.pictures
+{
+    display: flex;
+    flex-shrink: 0;
+    flex-wrap: wrap;
+    /* */
+
+    margin-left: -30px;
+}
+
+.reason
+{
+    font-size: 17px;
+    line-height: normal;
+
+    align-items: flex-start;
+
+    margin: 14px 16px;
+}
+
+.reasonByTags
+{
+    /* */
+}
+
+.reasonText strong
+{
+    font-weight: 300;
+
+    margin-right: .25em;
+
+    color: #a3cf06;
+}
+
+.reasonTags
+{
+    margin-top: 8px;
+}
+
+.reasonAvatar
+{
+    margin: 0 10px 5px 0;
+}
+
+.reasonByCurator
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.productPrice
+{
+    font-size: 11px;
+
+    display: block;
+
+    color: #acdbf5;
+}
+
+.platforms
+{
+    display: flex;
+    flex-grow: 1;
+    justify-content: flex-end;
+
+    margin-top: -3px;
+
+    color: #b6b8ba;
+}
+
+.platformWindows,
+.platformMacos,
+.platformLinux
+{
+    display: block;
+}
+
+.platformWindows
+{
+    margin-top: 0;
+
+    composes: WindowsAfter from '../Icons/styles.css';
+}
+.platformMacos
+{
+    margin-top: -1px;
+
+    composes: MacAfter from '../Icons/styles.css';
+}
+.platformLinux
+{
+    margin-top: 0;
+
+    composes: LinuxAfter from '../Icons/styles.css';
+}
+
+.Hover
+{
+    /* */
+}
+
+.hoverTitle
+{
+    /* */
+}
+
+.hoverPictures
+{
+    /* */
+}
+
+.hoverReviews
+{
+    /* */
+}
+
+.hoverTags
+{
+    /* */
+}
+
+.hoverTag
+{
+    /* */
+}
+
+.tag
+{
+    font-size: 11px;
+    line-height: 19px;
+    /* */
+
+    display: inline-block;
+    overflow: hidden;
+
+    max-width: 200px;
+    margin-right: 2px;
+    margin-bottom: 3px;
+    padding: 0 7px;
+
+    cursor: pointer;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+
+    border-radius: 2px;
+    background-color: rgba( 255, 255, 255, .2 );
+    box-shadow: none;
+}

@@ -1,0 +1,41 @@
+.StoreRecommendationTag
+{
+    margin: 50px 0;
+
+    composes: fontFamilyCapsule from '../common/styles/typography.css';
+}
+
+.tagName,
+.tagDescription
+{
+    display: inline-block;
+
+    margin: 0;
+}
+
+.tagName
+{
+    font-size: 17px;
+    font-weight: normal;
+
+    margin: 0 .5em 10px 0;
+    padding-top: 2px;
+
+    text-decoration: none;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #67c1f5;
+}
+
+.tagName:hover
+{
+    color: #fff;
+}
+
+.tagDescription
+{
+    font-size: 15px;
+
+    color: #9099a1;
+}

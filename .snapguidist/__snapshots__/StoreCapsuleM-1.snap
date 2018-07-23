@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoreCapsuleM-1 1`] = `
+<a
+  className="src-components-StoreCapsuleM-styles__StoreCapsuleM___3Cbjr src-components-common-styles-typography__fontFamilyCapsule___3HgYh"
+  href="#"
+>
+  <img
+    className="src-components-StoreCapsuleM-styles__picture___3dLbL"
+    src="/screenshots/spotlight_image.jpg"
+  />
+  <div
+    className="src-components-StoreCapsuleM-styles__info___1Vd0Q"
+  >
+    <h2
+      className="src-components-StoreCapsuleM-styles__name___3leNq"
+    >
+      Free weekend
+    </h2>
+    <p
+      className="src-components-StoreCapsuleM-styles__body___3788Q"
+    >
+      Play for free until Sunday at 1PM Pacific Time
+    </p>
+    <div
+      className="src-components-StorePriceInfo-styles__StorePriceInfoNormal___2s64J src-components-StorePriceInfo-styles__StorePriceInfo___3mzqO src-components-common-styles-typography__fontFamilyCapsule___3HgYh src-components-StorePriceInfo-styles__sizeM___3OgPK"
+    >
+      29.99
+    </div>
+  </div>
+</a>
+`;

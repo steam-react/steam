@@ -1,0 +1,26 @@
+.StoreFrontBlock
+{
+    position: relative;
+
+    width: 960px;
+    margin: 0 auto;
+    padding: 0 16px;
+
+    transition: padding .25s;
+}
+
+@media (min-width: 1442px)
+{
+    .StoreFrontBlock
+    {
+        padding-right: 234px;
+    }
+}
+
+@media (min-width: 1280px)
+{
+    .StoreFrontBlock
+    {
+        padding-left: 234px;
+    }
+}

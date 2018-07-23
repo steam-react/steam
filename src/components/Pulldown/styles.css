@@ -1,0 +1,101 @@
+.Pulldown
+{
+    font-size: 11px;
+
+    position: relative;
+
+    display: inline-block;
+
+    user-select: none;
+}
+
+.popup
+{
+    font-size: 13px;
+
+    position: absolute;
+
+    visibility: hidden;
+
+    margin: 0 ;
+    padding: 0;
+
+    transition: opacity 150ms, visibility 150ms ease-in;
+
+    opacity: 0;
+    background-color: #fff;
+    box-shadow: 0 0 12px #000;
+
+    composes: zIndexPopup from '../common/styles/zindex.css';
+}
+
+.popupOpened,
+.typeHover:hover > .popup
+{
+    visibility: visible;
+
+    opacity: 1;
+}
+
+.PulldownItem
+{
+    margin: 0;
+    padding: 5px 12px;
+
+    list-style: none;
+
+    white-space: nowrap;
+}
+
+.PulldownItemLink
+{
+    text-decoration: none;
+
+    color: #fff;
+}
+
+.popupAlignLeft
+{
+    left: 0;
+}
+
+.popupAlignRight
+{
+    right: 0;
+}
+
+.popupAlignUp
+{
+    top: 0;
+}
+
+.popupAlignDown
+{
+    bottom: 0;
+}
+
+.popupOpensUp
+{
+    bottom: calc(100% - 1px);
+}
+
+.popupOpensDown
+{
+    top: calc(100% - 1px);
+}
+
+.popupOpensUp,
+.popupOpensDown
+{
+    min-width: 100%;
+}
+
+.popupOpensLeft
+{
+    right: calc(100% - 1px);
+}
+
+.popupOpensRight
+{
+    left: calc(100% - 1px);
+}

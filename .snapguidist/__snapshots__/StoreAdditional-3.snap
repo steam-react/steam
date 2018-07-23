@@ -1,0 +1,540 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoreAdditional-3 1`] = `
+<div
+  className="src-components-StoreAdditional-styles__StoreAdditional___2fNbl"
+>
+  <div
+    className="page"
+  >
+    <div
+      className="src-components-StoreAdditional-styles__tags___oixik"
+    >
+      <div
+        className="src-components-StoreFrontBlock-styles__StoreFrontBlock___10hiJ"
+      >
+        <section
+          className="src-components-StoreRecommendationTag-styles__StoreRecommendationTag___2m_7J src-components-common-styles-typography__fontFamilyCapsule___3HgYh"
+        >
+          <header>
+            <a
+              className="src-components-StoreRecommendationTag-styles__tagName___Rij64"
+              href="#"
+            >
+              Action games
+            </a>
+            <span
+              className="src-components-StoreRecommendationTag-styles__tagDescription___1ek0S"
+            >
+              Due to your recent playtime in other Action games
+            </span>
+          </header>
+          <div>
+            <a
+              className="src-components-StoreCapsuleRecommendation-styles__sizeL___2Qftx src-components-StoreCapsuleRecommendation-styles__StoreCapsuleRecommendation___NVNA9 src-components-common-styles-typography__fontFamilyDefault___1HHGb"
+              href="#"
+            >
+              <img
+                className="src-components-StoreCapsuleRecommendation-styles__picture___csiop"
+                src="/screenshots/portal2_00.jpg"
+              />
+              <span
+                className="src-components-StoreCapsuleRecommendation-styles__name___3sPZt"
+              >
+                Portal 2
+              </span>
+              <div
+                className="src-components-StorePriceInfo-styles__StorePriceInfoDiscount___w_a2w src-components-StorePriceInfo-styles__StorePriceInfo___3mzqO src-components-common-styles-typography__fontFamilyCapsule___3HgYh src-components-StorePriceInfo-styles__sizeS___3QCFz"
+              >
+                <div
+                  className="src-components-StorePriceInfo-styles__discount___W1b8o"
+                >
+                  -60%
+                </div>
+                <div
+                  className="src-components-StorePriceInfo-styles__prices___2CCDC"
+                >
+                  <div
+                    className="src-components-StorePriceInfo-styles__priceOriginal___1TlYx"
+                  >
+                    $29.99
+                  </div>
+                  <div
+                    className="src-components-StorePriceInfo-styles__priceFinal___suo-c"
+                  >
+                    $9.99
+                  </div>
+                </div>
+              </div>
+            </a>
+            <a
+              className="src-components-StoreCapsuleRecommendation-styles__sizeL___2Qftx src-components-StoreCapsuleRecommendation-styles__StoreCapsuleRecommendation___NVNA9 src-components-common-styles-typography__fontFamilyDefault___1HHGb"
+              href="#"
+            >
+              <img
+                className="src-components-StoreCapsuleRecommendation-styles__picture___csiop"
+                src="/screenshots/hl1_00.jpg"
+              />
+              <span
+                className="src-components-StoreCapsuleRecommendation-styles__name___3sPZt"
+              >
+                Half-life
+              </span>
+              <div
+                className="src-components-StorePriceInfo-styles__StorePriceInfoNormal___2s64J src-components-StorePriceInfo-styles__StorePriceInfo___3mzqO src-components-common-styles-typography__fontFamilyCapsule___3HgYh src-components-StorePriceInfo-styles__sizeS___3QCFz"
+              >
+                $29.99
+              </div>
+            </a>
+          </div>
+        </section>
+      </div>
+      <div
+        className="src-components-StoreFrontBlock-styles__StoreFrontBlock___10hiJ"
+      >
+        <section
+          className="src-components-StoreRecommendationTag-styles__StoreRecommendationTag___2m_7J src-components-common-styles-typography__fontFamilyCapsule___3HgYh"
+        >
+          <header>
+            <a
+              className="src-components-StoreRecommendationTag-styles__tagName___Rij64"
+            >
+              FPS games
+            </a>
+            <span
+              className="src-components-StoreRecommendationTag-styles__tagDescription___1ek0S"
+            >
+              Due to your recent playtime in other FPS games
+            </span>
+          </header>
+          <div>
+            <a
+              className="src-components-StoreCapsuleRecommendation-styles__sizeS___1P3kY src-components-StoreCapsuleRecommendation-styles__StoreCapsuleRecommendation___NVNA9 src-components-common-styles-typography__fontFamilyDefault___1HHGb"
+              href="#"
+            >
+              <img
+                className="src-components-StoreCapsuleRecommendation-styles__picture___csiop"
+                src="/screenshots/portal2_00.jpg"
+              />
+              <span
+                className="src-components-StoreCapsuleRecommendation-styles__name___3sPZt"
+              >
+                Portal 2
+              </span>
+              <div
+                className="src-components-StorePriceInfo-styles__StorePriceInfoDiscount___w_a2w src-components-StorePriceInfo-styles__StorePriceInfo___3mzqO src-components-common-styles-typography__fontFamilyCapsule___3HgYh src-components-StorePriceInfo-styles__sizeS___3QCFz"
+              >
+                <div
+                  className="src-components-StorePriceInfo-styles__discount___W1b8o"
+                >
+                  -60%
+                </div>
+                <div
+                  className="src-components-StorePriceInfo-styles__prices___2CCDC"
+                >
+                  <div
+                    className="src-components-StorePriceInfo-styles__priceOriginal___1TlYx"
+                  >
+                    $29.99
+                  </div>
+                  <div
+                    className="src-components-StorePriceInfo-styles__priceFinal___suo-c"
+                  >
+                    $9.99
+                  </div>
+                </div>
+              </div>
+            </a>
+            <a
+              className="src-components-StoreCapsuleRecommendation-styles__sizeS___1P3kY src-components-StoreCapsuleRecommendation-styles__StoreCapsuleRecommendation___NVNA9 src-components-common-styles-typography__fontFamilyDefault___1HHGb"
+              href="#"
+            >
+              <img
+                className="src-components-StoreCapsuleRecommendation-styles__picture___csiop"
+                src="/screenshots/portal2_00.jpg"
+              />
+              <span
+                className="src-components-StoreCapsuleRecommendation-styles__name___3sPZt"
+              >
+                Portal 2
+              </span>
+              <div
+                className="src-components-StorePriceInfo-styles__StorePriceInfoDiscount___w_a2w src-components-StorePriceInfo-styles__StorePriceInfo___3mzqO src-components-common-styles-typography__fontFamilyCapsule___3HgYh src-components-StorePriceInfo-styles__sizeS___3QCFz"
+              >
+                <div
+                  className="src-components-StorePriceInfo-styles__discount___W1b8o"
+                >
+                  -60%
+                </div>
+                <div
+                  className="src-components-StorePriceInfo-styles__prices___2CCDC"
+                >
+                  <div
+                    className="src-components-StorePriceInfo-styles__priceOriginal___1TlYx"
+                  >
+                    $29.99
+                  </div>
+                  <div
+                    className="src-components-StorePriceInfo-styles__priceFinal___suo-c"
+                  >
+                    $9.99
+                  </div>
+                </div>
+              </div>
+            </a>
+            <a
+              className="src-components-StoreCapsuleRecommendation-styles__sizeS___1P3kY src-components-StoreCapsuleRecommendation-styles__StoreCapsuleRecommendation___NVNA9 src-components-common-styles-typography__fontFamilyDefault___1HHGb"
+              href="#"
+            >
+              <img
+                className="src-components-StoreCapsuleRecommendation-styles__picture___csiop"
+                src="/screenshots/portal2_00.jpg"
+              />
+              <span
+                className="src-components-StoreCapsuleRecommendation-styles__name___3sPZt"
+              >
+                Portal 2
+              </span>
+              <div
+                className="src-components-StorePriceInfo-styles__StorePriceInfoDiscount___w_a2w src-components-StorePriceInfo-styles__StorePriceInfo___3mzqO src-components-common-styles-typography__fontFamilyCapsule___3HgYh src-components-StorePriceInfo-styles__sizeS___3QCFz"
+              >
+                <div
+                  className="src-components-StorePriceInfo-styles__discount___W1b8o"
+                >
+                  -60%
+                </div>
+                <div
+                  className="src-components-StorePriceInfo-styles__prices___2CCDC"
+                >
+                  <div
+                    className="src-components-StorePriceInfo-styles__priceOriginal___1TlYx"
+                  >
+                    $29.99
+                  </div>
+                  <div
+                    className="src-components-StorePriceInfo-styles__priceFinal___suo-c"
+                  >
+                    $9.99
+                  </div>
+                </div>
+              </div>
+            </a>
+            <a
+              className="src-components-StoreCapsuleRecommendation-styles__sizeS___1P3kY src-components-StoreCapsuleRecommendation-styles__StoreCapsuleRecommendation___NVNA9 src-components-common-styles-typography__fontFamilyDefault___1HHGb"
+              href="#"
+            >
+              <img
+                className="src-components-StoreCapsuleRecommendation-styles__picture___csiop"
+                src="/screenshots/portal2_00.jpg"
+              />
+              <span
+                className="src-components-StoreCapsuleRecommendation-styles__name___3sPZt"
+              >
+                Portal 2
+              </span>
+              <div
+                className="src-components-StorePriceInfo-styles__StorePriceInfoDiscount___w_a2w src-components-StorePriceInfo-styles__StorePriceInfo___3mzqO src-components-common-styles-typography__fontFamilyCapsule___3HgYh src-components-StorePriceInfo-styles__sizeS___3QCFz"
+              >
+                <div
+                  className="src-components-StorePriceInfo-styles__discount___W1b8o"
+                >
+                  -60%
+                </div>
+                <div
+                  className="src-components-StorePriceInfo-styles__prices___2CCDC"
+                >
+                  <div
+                    className="src-components-StorePriceInfo-styles__priceOriginal___1TlYx"
+                  >
+                    $29.99
+                  </div>
+                  <div
+                    className="src-components-StorePriceInfo-styles__priceFinal___suo-c"
+                  >
+                    $9.99
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+        </section>
+      </div>
+    </div>
+    <div
+      className="src-components-StoreAdditional-styles__similar___1AsYL"
+    >
+      <div
+        className="src-components-StoreFrontBlock-styles__StoreFrontBlock___10hiJ"
+      >
+        <div
+          className="src-components-StoreRecommendationSimilar-styles__StoreRecommendationSimilar___2xP3J"
+        >
+          <div
+            className="src-components-StoreRecommendationSimilar-styles__productLink___2iya-"
+          >
+            <div
+              className="src-components-StoreRecommendationSimilar-styles__name___Z87TY src-components-common-styles-typography__fontFamilyCapsule___3HgYh"
+            >
+              Half-Life 3
+            </div>
+            <div
+              className="src-components-StoreRecommendationSimilar-styles__reason___16XYD src-components-common-styles-typography__fontFamilyCapsule___3HgYh"
+            >
+              Since you recently played
+               
+              <a
+                className="src-components-StoreRecommendationSimilar-styles__reasonLink___hO2IG"
+                href="#details/half-life"
+              >
+                Half-Life
+              </a>
+            </div>
+            <div
+              className="pictures"
+            >
+              <a
+                className="src-components-StoreCapsuleRecommendation-styles__sizeM___31cSW src-components-StoreRecommendationSimilar-styles__capsule___2zDMg src-components-StoreCapsuleRecommendation-styles__StoreCapsuleRecommendation___NVNA9 src-components-common-styles-typography__fontFamilyDefault___1HHGb"
+                href="#details/half-life3"
+              >
+                <img
+                  className="src-components-StoreCapsuleRecommendation-styles__picture___csiop"
+                  src="/screenshots/hl3_00.jpg"
+                />
+                <div
+                  className="src-components-StorePriceInfo-styles__StorePriceInfoDiscount___w_a2w src-components-StorePriceInfo-styles__StorePriceInfo___3mzqO src-components-common-styles-typography__fontFamilyCapsule___3HgYh src-components-StorePriceInfo-styles__sizeS___3QCFz"
+                >
+                  <div
+                    className="src-components-StorePriceInfo-styles__discount___W1b8o"
+                  >
+                    -66%
+                  </div>
+                  <div
+                    className="src-components-StorePriceInfo-styles__prices___2CCDC"
+                  >
+                    <div
+                      className="src-components-StorePriceInfo-styles__priceOriginal___1TlYx"
+                    >
+                      $29.99
+                    </div>
+                    <div
+                      className="src-components-StorePriceInfo-styles__priceFinal___suo-c"
+                    >
+                      $9.99
+                    </div>
+                  </div>
+                </div>
+              </a>
+              <div
+                className="src-components-StoreRecommendationSimilar-styles__PicturesBox___2UWPJ"
+              >
+                <a
+                  className="src-components-StoreRecommendationSimilar-styles__pictureLink___1iuw6"
+                  href="#details/half-life3"
+                >
+                  <img
+                    className="src-components-StoreRecommendationSimilar-styles__picture___327Hq"
+                    src="/screenshots/hl3_01.jpg"
+                  />
+                </a>
+                <a
+                  className="src-components-StoreRecommendationSimilar-styles__pictureLink___1iuw6"
+                  href="#details/half-life3"
+                >
+                  <img
+                    className="src-components-StoreRecommendationSimilar-styles__picture___327Hq"
+                    src="/screenshots/hl3_02.jpg"
+                  />
+                </a>
+                <a
+                  className="src-components-StoreRecommendationSimilar-styles__pictureLink___1iuw6"
+                  href="#details/half-life3"
+                >
+                  <img
+                    className="src-components-StoreRecommendationSimilar-styles__picture___327Hq"
+                    src="/screenshots/hl3_03.jpg"
+                  />
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            className="src-components-StoreRecommendationSimilar-styles__buttons___p5C8O"
+          >
+            <button
+              className="src-components-StoreRecommendationSimilar-styles__btnVisit___3_RLB src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeS___3v_OT"
+            >
+              <span
+                className="src-components-Button-styles__caption___23qri"
+              >
+                Visit product page
+              </span>
+            </button>
+            <button
+              className="src-components-StoreRecommendationSimilar-styles__btnAddToWishlist___2LuB5 src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeS___3v_OT"
+            >
+              <span
+                className="src-components-Button-styles__caption___23qri"
+              >
+                Add to your wishlist
+              </span>
+            </button>
+            <button
+              className="src-components-StoreRecommendationSimilar-styles__btnNotInterested___1gBNJ src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeS___3v_OT"
+            >
+              <span
+                className="src-components-Button-styles__caption___23qri"
+              >
+                Not interested
+              </span>
+            </button>
+            <button
+              className="src-components-StoreRecommendationSimilar-styles__btnFindMore___2PUSX src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeS___3v_OT"
+            >
+              <span
+                className="src-components-Button-styles__caption___23qri"
+              >
+                Find more like this
+              </span>
+            </button>
+          </div>
+        </div>
+        <div
+          className="src-components-StoreRecommendationSimilar-styles__StoreRecommendationSimilar___2xP3J"
+        >
+          <div
+            className="src-components-StoreRecommendationSimilar-styles__productLink___2iya-"
+          >
+            <div
+              className="src-components-StoreRecommendationSimilar-styles__name___Z87TY src-components-common-styles-typography__fontFamilyCapsule___3HgYh"
+            >
+              Half-Life 3
+            </div>
+            <div
+              className="src-components-StoreRecommendationSimilar-styles__reason___16XYD src-components-common-styles-typography__fontFamilyCapsule___3HgYh"
+            >
+              Since you recently played
+               
+              <a
+                className="src-components-StoreRecommendationSimilar-styles__reasonLink___hO2IG"
+                href="#details/half-life"
+              >
+                Half-Life
+              </a>
+            </div>
+            <div
+              className="pictures"
+            >
+              <a
+                className="src-components-StoreCapsuleRecommendation-styles__sizeM___31cSW src-components-StoreRecommendationSimilar-styles__capsule___2zDMg src-components-StoreCapsuleRecommendation-styles__StoreCapsuleRecommendation___NVNA9 src-components-common-styles-typography__fontFamilyDefault___1HHGb"
+                href="#details/half-life3"
+              >
+                <img
+                  className="src-components-StoreCapsuleRecommendation-styles__picture___csiop"
+                  src="/screenshots/hl3_00.jpg"
+                />
+                <div
+                  className="src-components-StorePriceInfo-styles__StorePriceInfoDiscount___w_a2w src-components-StorePriceInfo-styles__StorePriceInfo___3mzqO src-components-common-styles-typography__fontFamilyCapsule___3HgYh src-components-StorePriceInfo-styles__sizeS___3QCFz"
+                >
+                  <div
+                    className="src-components-StorePriceInfo-styles__discount___W1b8o"
+                  >
+                    -66%
+                  </div>
+                  <div
+                    className="src-components-StorePriceInfo-styles__prices___2CCDC"
+                  >
+                    <div
+                      className="src-components-StorePriceInfo-styles__priceOriginal___1TlYx"
+                    >
+                      $29.99
+                    </div>
+                    <div
+                      className="src-components-StorePriceInfo-styles__priceFinal___suo-c"
+                    >
+                      $9.99
+                    </div>
+                  </div>
+                </div>
+              </a>
+              <div
+                className="src-components-StoreRecommendationSimilar-styles__PicturesBox___2UWPJ"
+              >
+                <a
+                  className="src-components-StoreRecommendationSimilar-styles__pictureLink___1iuw6"
+                  href="#details/half-life3"
+                >
+                  <img
+                    className="src-components-StoreRecommendationSimilar-styles__picture___327Hq"
+                    src="/screenshots/hl3_01.jpg"
+                  />
+                </a>
+                <a
+                  className="src-components-StoreRecommendationSimilar-styles__pictureLink___1iuw6"
+                  href="#details/half-life3"
+                >
+                  <img
+                    className="src-components-StoreRecommendationSimilar-styles__picture___327Hq"
+                    src="/screenshots/hl3_02.jpg"
+                  />
+                </a>
+                <a
+                  className="src-components-StoreRecommendationSimilar-styles__pictureLink___1iuw6"
+                  href="#details/half-life3"
+                >
+                  <img
+                    className="src-components-StoreRecommendationSimilar-styles__picture___327Hq"
+                    src="/screenshots/hl3_03.jpg"
+                  />
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            className="src-components-StoreRecommendationSimilar-styles__buttons___p5C8O"
+          >
+            <button
+              className="src-components-StoreRecommendationSimilar-styles__btnVisit___3_RLB src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeS___3v_OT"
+            >
+              <span
+                className="src-components-Button-styles__caption___23qri"
+              >
+                Visit product page
+              </span>
+            </button>
+            <button
+              className="src-components-StoreRecommendationSimilar-styles__btnAddToWishlist___2LuB5 src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeS___3v_OT"
+            >
+              <span
+                className="src-components-Button-styles__caption___23qri"
+              >
+                Add to your wishlist
+              </span>
+            </button>
+            <button
+              className="src-components-StoreRecommendationSimilar-styles__btnNotInterested___1gBNJ src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeS___3v_OT"
+            >
+              <span
+                className="src-components-Button-styles__caption___23qri"
+              >
+                Not interested
+              </span>
+            </button>
+            <button
+              className="src-components-StoreRecommendationSimilar-styles__btnFindMore___2PUSX src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeS___3v_OT"
+            >
+              <span
+                className="src-components-Button-styles__caption___23qri"
+              >
+                Find more like this
+              </span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="src-components-StoreAdditional-styles__throbber___1efoK src-components-StoreFrontBlock-styles__StoreFrontBlock___10hiJ"
+  />
+</div>
+`;

@@ -1,0 +1,381 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LayoutGlobal-0 1`] = `
+Array [
+  <header
+    className="src-components-LayoutGlobal-styles__header___3T0Sp"
+  >
+    <div
+      className="src-components-LayoutGlobal-styles__headerContent___1pVF-"
+    >
+      <a
+        className="src-components-LayoutGlobal-styles__logo___375X7"
+        href="/"
+      >
+        <img
+          alt="Steam"
+          src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALAAAAAsCAYAAADFEzJmAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NzRCNDQ4RDY3NDU5MTFFNkFCRTlCMUI1NThBRjIwNTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NzRCNDQ4RDc3NDU5MTFFNkFCRTlCMUI1NThBRjIwNTQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo3NEI0NDhENDc0NTkxMUU2QUJFOUIxQjU1OEFGMjA1NCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo3NEI0NDhENTc0NTkxMUU2QUJFOUIxQjU1OEFGMjA1NCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pv38DckAAArOSURBVHja7J0LdBTV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"
+        />
+      </a>
+      <div
+        className="src-components-NavigationGlobal-styles__NavigationGlobal___IGTtG src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-LayoutGlobal-styles__navigation___2N0h5"
+      >
+        <div
+          className="src-components-NavigationGlobal-styles__itemTopLevel___3Thhc src-components-Pulldown-styles__Pulldown___3mAxJ src-components-Pulldown-styles__typeHover___tJwdI"
+        >
+          <a
+            className="src-components-NavigationGlobal-styles__linkTopLevel___3qGRu"
+            href="https://store.steampowered.com/"
+          >
+            Store
+          </a>
+          <div
+            className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignLeft___1uzGS src-components-Pulldown-styles__popupOpensDown___1OR6f"
+          >
+            <div
+              className="src-components-ListView-styles__Menu___1Rjz4 src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-NavigationGlobal-styles__submenu___3J1us src-components-ListView-styles__MenuVertical___38s9a"
+            >
+              <a
+                className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+                href="#"
+              >
+                Featured
+              </a>
+              <a
+                className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+                href="#"
+              >
+                Explore
+              </a>
+              <a
+                className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+                href="#"
+              >
+                Curators
+              </a>
+              <a
+                className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+                href="#"
+              >
+                Wishlist
+              </a>
+              <a
+                className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+                href="#"
+              >
+                News
+              </a>
+              <a
+                className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+                href="#"
+              >
+                Stats
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          className="src-components-NavigationGlobal-styles__itemTopLevel___3Thhc src-components-Pulldown-styles__Pulldown___3mAxJ src-components-Pulldown-styles__typeHover___tJwdI"
+        >
+          <a
+            className="src-components-NavigationGlobal-styles__linkTopLevel___3qGRu"
+            href="https://steamcommunity.com/"
+          >
+            Community
+          </a>
+          <div
+            className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignLeft___1uzGS src-components-Pulldown-styles__popupOpensDown___1OR6f"
+          >
+            <div
+              className="src-components-ListView-styles__Menu___1Rjz4 src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-NavigationGlobal-styles__submenu___3J1us src-components-ListView-styles__MenuVertical___38s9a"
+            >
+              <a
+                className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+                href="#"
+              >
+                Home
+              </a>
+              <a
+                className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+                href="#"
+              >
+                Discussions
+              </a>
+              <a
+                className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+                href="#"
+              >
+                Workshop
+              </a>
+              <a
+                className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+                href="#"
+              >
+                Market
+              </a>
+              <a
+                className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+                href="#"
+              >
+                Broadcasts
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          className="src-components-NavigationGlobal-styles__itemTopLevel___3Thhc src-components-Pulldown-styles__Pulldown___3mAxJ src-components-Pulldown-styles__typeHover___tJwdI"
+        >
+          <a
+            className="src-components-NavigationGlobal-styles__linkTopLevel___3qGRu"
+            href="https://steamcommunity/id/mvasiliev/home/"
+          >
+            Max-at-work
+          </a>
+          <div
+            className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignLeft___1uzGS src-components-Pulldown-styles__popupOpensDown___1OR6f"
+          >
+            <div
+              className="src-components-ListView-styles__Menu___1Rjz4 src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-NavigationGlobal-styles__submenu___3J1us src-components-ListView-styles__MenuVertical___38s9a"
+            >
+              <a
+                className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+                href="#"
+              >
+                Activity
+              </a>
+              <a
+                className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+                href="#"
+              >
+                Profile
+              </a>
+              <a
+                className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+                href="#"
+              >
+                Friends
+              </a>
+              <a
+                className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+                href="#"
+              >
+                Groups
+              </a>
+              <a
+                className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+                href="#"
+              >
+                Content
+              </a>
+              <a
+                className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+                href="#"
+              >
+                Badges
+              </a>
+              <a
+                className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+                href="#"
+              >
+                Inventory
+              </a>
+            </div>
+          </div>
+        </div>
+        <a
+          className="src-components-NavigationGlobal-styles__simpleLinkTopLevel___3sh54 src-components-NavigationGlobal-styles__itemTopLevel___3Thhc src-components-NavigationGlobal-styles__linkTopLevel___3qGRu"
+          href="http://store.steampowered.com/about/"
+        >
+          About
+        </a>
+        <a
+          className="src-components-NavigationGlobal-styles__simpleLinkTopLevel___3sh54 src-components-NavigationGlobal-styles__itemTopLevel___3Thhc src-components-NavigationGlobal-styles__linkTopLevel___3qGRu"
+          href="https://help.steampowered.com/en/"
+        >
+          Support
+        </a>
+      </div>
+      <div
+        className="src-components-GlobalActions-styles__globalActions___20z6J src-components-LayoutGlobal-styles__actions___3Y12S"
+      >
+        <div
+          className="src-components-GlobalActions-styles__globalActionsContainer___3uzxJ"
+        >
+          <a
+            className="src-components-GlobalActions-styles__buttonInstallSteam___1jhq6 src-components-GlobalActions-styles__action___1OLO8 src-components-Button-styles__ButtonSecondary___2LSNC src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeS___3v_OT src-components-Icons-styles__DownloadBefore___2C7lm src-components-Icons-styles__iconBefore___8sNmS src-components-Icons-styles__faSolidBefore___1SHEp"
+            href="https://store.steampowered.com/about/"
+          >
+            <span
+              className="src-components-Button-styles__caption___23qri"
+            >
+              Install Steam
+            </span>
+          </a>
+          <div
+            className="src-components-GlobalActions-styles__action___1OLO8 src-components-Pulldown-styles__Pulldown___3mAxJ"
+          >
+            <button
+              className="src-components-GlobalActions-styles__buttonNotifications___3Kp-q src-components-GlobalActions-styles__buttonNotificationsActive___2BTAP src-components-Button-styles__ButtonSecondary___2LSNC src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeS___3v_OT src-components-Icons-styles__EnvelopeAfter___1q4qy src-components-Icons-styles__iconAfter___1eJ3U src-components-Icons-styles__faSolidAfter___180--"
+            >
+              <span
+                className="src-components-Button-styles__caption___23qri"
+              >
+                2
+              </span>
+            </button>
+            <div
+              className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignRight___1qxdQ src-components-Pulldown-styles__popupOpensDown___1OR6f"
+            >
+              <div
+                className="src-components-ListView-styles__Menu___1Rjz4 src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-NotificationsList-styles__notifications___orA1V src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-ListView-styles__MenuVertical___38s9a"
+              >
+                <a
+                  className="src-components-NotificationsList-styles__notification___nE590 src-components-NotificationsList-styles__active___9lL4v"
+                  href=""
+                >
+                  1
+                   
+                  new comments
+                </a>
+                <a
+                  className="src-components-NotificationsList-styles__notification___nE590 src-components-NotificationsList-styles__active___9lL4v"
+                  href=""
+                >
+                  1
+                   
+                  new items in your inventory
+                </a>
+                <a
+                  className="src-components-NotificationsList-styles__notification___nE590"
+                  href=""
+                >
+                  0
+                   
+                  new invites
+                </a>
+                <a
+                  className="src-components-NotificationsList-styles__notification___nE590"
+                  href=""
+                >
+                  0
+                   
+                  new gifts
+                </a>
+                <a
+                  className="src-components-NotificationsList-styles__notification___nE590"
+                  href=""
+                >
+                  0
+                   
+                  unread chat messages
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            className="src-components-GlobalActions-styles__action___1OLO8 src-components-Pulldown-styles__Pulldown___3mAxJ"
+          >
+            <span
+              className="src-components-GlobalActions-styles__buttonUserProfile___7zS_s src-components-GlobalActions-styles__actionLink___1u28x src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-Icons-styles__TriangleDownAfter___2bEzE src-components-Icons-styles__iconAfter___1eJ3U src-components-Icons-styles__faSolidAfter___180-- src-components-Icons-styles__TriangleDownAfter___2bEzE src-components-Icons-styles__iconAfter___1eJ3U src-components-Icons-styles__faSolidAfter___180--"
+            >
+              mvasiliev
+            </span>
+            <div
+              className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignRight___1qxdQ src-components-Pulldown-styles__popupOpensDown___1OR6f"
+            >
+              <div
+                className="src-components-ListView-styles__Menu___1Rjz4 src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-MenuProfile-styles__userProfileMenu___3PiTC src-components-ListView-styles__MenuVertical___38s9a"
+              >
+                <a
+                  className="src-components-MenuProfile-styles__userProfileMenuItem___3H4YQ"
+                  href="#"
+                >
+                  Logout
+                </a>
+                <a
+                  className="src-components-MenuProfile-styles__userProfileMenuItem___3H4YQ"
+                  href="#"
+                >
+                  Account details
+                </a>
+                <a
+                  className="src-components-MenuProfile-styles__userProfileMenuItem___3H4YQ"
+                  href="#"
+                >
+                  Preferences
+                </a>
+                <div
+                  className="src-components-ListView-styles__MenuItem___vYAf1 src-components-Pulldown-styles__Pulldown___3mAxJ src-components-Pulldown-styles__typeHover___tJwdI"
+                >
+                  <a
+                    className="src-components-MenuProfile-styles__userProfileMenuItem___3H4YQ"
+                    href="#"
+                  >
+                    Change language
+                  </a>
+                  <div
+                    className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignUp___2DZHp src-components-Pulldown-styles__popupOpensLeft___XbAXW"
+                  >
+                    <div
+                      className="src-components-ListView-styles__Menu___1Rjz4 src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-LanguagesList-styles__LanguagesList___Kd7UR src-components-ListView-styles__MenuVertical___38s9a"
+                    >
+                      <a
+                        className="src-components-ListView-styles__MenuItem___vYAf1 src-components-LanguagesList-styles__language___GBIwT src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                        href="#lang=bulgarian"
+                      >
+                        Български (Bulgarian)
+                      </a>
+                      <a
+                        className="src-components-ListView-styles__MenuItem___vYAf1 src-components-LanguagesList-styles__language___GBIwT src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                        href="#lang=czech"
+                      >
+                        čeština (Czech)
+                      </a>
+                      <a
+                        className="src-components-ListView-styles__MenuItem___vYAf1 src-components-LanguagesList-styles__language___GBIwT src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                        href="#lang=russian"
+                      >
+                        Русский (Russian)
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <a
+                  className="src-components-MenuProfile-styles__userProfileMenuItem___3H4YQ"
+                  href="#"
+                >
+                  View profile
+                </a>
+              </div>
+            </div>
+          </div>
+          <a
+            className="src-components-GlobalActions-styles__userAvatar___yamQV src-components-UserAvatar-styles__sizeS___3jUjJ src-components-UserAvatar-styles__UserAvatar___eVBHf"
+            href="https://steamcommunity.com/id/mvasiliev/"
+          >
+            <img
+              className="src-components-UserAvatar-styles__userPic___3nQ1i"
+              src="/avatars/maxatwork_medium.jpg"
+            />
+          </a>
+        </div>
+      </div>
+    </div>
+  </header>,
+  <div
+    className="src-components-LayoutGlobal-styles__content___2mZ5C"
+  >
+    <div
+      style={
+        Object {
+          "backgroundColor": "#999",
+          "color": "#000",
+          "minHeight": "800px",
+        }
+      }
+    >
+      Content
+    </div>
+  </div>,
+]
+`;

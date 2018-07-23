@@ -1,0 +1,182 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavigationGlobal-3 1`] = `
+<div
+  className="src-components-NavigationGlobal-styles__NavigationGlobal___IGTtG src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+>
+  <div
+    className="src-components-NavigationGlobal-styles__itemTopLevel___3Thhc src-components-Pulldown-styles__Pulldown___3mAxJ src-components-Pulldown-styles__typeHover___tJwdI"
+  >
+    <a
+      className="src-components-NavigationGlobal-styles__linkTopLevel___3qGRu"
+      href="https://store.steampowered.com/"
+    >
+      Store
+    </a>
+    <div
+      className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignLeft___1uzGS src-components-Pulldown-styles__popupOpensDown___1OR6f"
+    >
+      <div
+        className="src-components-ListView-styles__Menu___1Rjz4 src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-NavigationGlobal-styles__submenu___3J1us src-components-ListView-styles__MenuVertical___38s9a"
+      >
+        <a
+          className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+          href="#"
+        >
+          Featured
+        </a>
+        <a
+          className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+          href="#"
+        >
+          Explore
+        </a>
+        <a
+          className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+          href="#"
+        >
+          Curators
+        </a>
+        <a
+          className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+          href="#"
+        >
+          Wishlist
+        </a>
+        <a
+          className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+          href="#"
+        >
+          News
+        </a>
+        <a
+          className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+          href="#"
+        >
+          Stats
+        </a>
+      </div>
+    </div>
+  </div>
+  <div
+    className="src-components-NavigationGlobal-styles__itemTopLevel___3Thhc src-components-Pulldown-styles__Pulldown___3mAxJ src-components-Pulldown-styles__typeHover___tJwdI"
+  >
+    <a
+      className="src-components-NavigationGlobal-styles__linkTopLevel___3qGRu"
+      href="https://steamcommunity.com/"
+    >
+      Community
+    </a>
+    <div
+      className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignLeft___1uzGS src-components-Pulldown-styles__popupOpensDown___1OR6f"
+    >
+      <div
+        className="src-components-ListView-styles__Menu___1Rjz4 src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-NavigationGlobal-styles__submenu___3J1us src-components-ListView-styles__MenuVertical___38s9a"
+      >
+        <a
+          className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+          href="#"
+        >
+          Home
+        </a>
+        <a
+          className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+          href="#"
+        >
+          Discussions
+        </a>
+        <a
+          className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+          href="#"
+        >
+          Workshop
+        </a>
+        <a
+          className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+          href="#"
+        >
+          Market
+        </a>
+        <a
+          className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+          href="#"
+        >
+          Broadcasts
+        </a>
+      </div>
+    </div>
+  </div>
+  <div
+    className="src-components-NavigationGlobal-styles__itemTopLevel___3Thhc src-components-Pulldown-styles__Pulldown___3mAxJ src-components-Pulldown-styles__typeHover___tJwdI"
+  >
+    <a
+      className="src-components-NavigationGlobal-styles__linkTopLevel___3qGRu"
+      href="https://steamcommunity/id/mvasiliev/home/"
+    >
+      Max-at-work
+    </a>
+    <div
+      className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignLeft___1uzGS src-components-Pulldown-styles__popupOpensDown___1OR6f"
+    >
+      <div
+        className="src-components-ListView-styles__Menu___1Rjz4 src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-NavigationGlobal-styles__submenu___3J1us src-components-ListView-styles__MenuVertical___38s9a"
+      >
+        <a
+          className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+          href="#"
+        >
+          Activity
+        </a>
+        <a
+          className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+          href="#"
+        >
+          Profile
+        </a>
+        <a
+          className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+          href="#"
+        >
+          Friends
+        </a>
+        <a
+          className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+          href="#"
+        >
+          Groups
+        </a>
+        <a
+          className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+          href="#"
+        >
+          Content
+        </a>
+        <a
+          className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+          href="#"
+        >
+          Badges
+        </a>
+        <a
+          className="src-components-NavigationGlobal-styles__simpleLinkSubmenu___1QTb5"
+          href="#"
+        >
+          Inventory
+        </a>
+      </div>
+    </div>
+  </div>
+  <a
+    className="src-components-NavigationGlobal-styles__simpleLinkTopLevel___3sh54 src-components-NavigationGlobal-styles__itemTopLevel___3Thhc src-components-NavigationGlobal-styles__linkTopLevel___3qGRu"
+    href="http://store.steampowered.com/about/"
+  >
+    About
+  </a>
+  <a
+    className="src-components-NavigationGlobal-styles__simpleLinkTopLevel___3sh54 src-components-NavigationGlobal-styles__itemTopLevel___3Thhc src-components-NavigationGlobal-styles__linkTopLevel___3qGRu"
+    href="https://help.steampowered.com/en/"
+  >
+    Support
+  </a>
+</div>
+`;

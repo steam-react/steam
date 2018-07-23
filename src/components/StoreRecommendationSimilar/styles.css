@@ -1,0 +1,140 @@
+.StoreRecommendationSimilar
+{
+    /* */
+}
+
+.productLink
+{
+    margin-top: 30px;
+    padding: 10px 16px 16px 16px;
+
+    color: #9099a0;
+    background: rgba(0,0,0,.2);
+}
+
+.buttons
+{
+    display: flex;
+    justify-content: flex-start;
+
+    margin: 2px 0 25px 0;
+    padding: 7px 7px;
+
+    color: #9099a0;
+    background: rgba(0,0,0,.2);
+}
+
+.btnNotInterested
+{
+    /* */
+}
+
+.btnVisit
+{
+    margin-right: 75px;
+}
+
+.btnAddToWishlist
+{
+    margin-right: 3px;
+}
+
+.btnFindMore
+{
+    margin-left: auto;
+}
+
+.name,
+.reason
+{
+    composes: fontFamilyCapsule from '../common/styles/typography.css';
+}
+
+.name
+{
+    font-size: 24px;
+    font-weight: 300;
+    font-weight: normal;
+
+    color: #fff;
+}
+
+.reason
+{
+    font-size: 13px;
+    font-weight: 300;
+
+    margin-bottom: 5px;
+
+    color: #9099a0;
+}
+
+.reasonLink
+{
+    text-decoration: none;
+
+    color: #fff;
+}
+
+.reasonLink:hover
+{
+    color: #66c0f4;
+}
+
+.StoreRecommendationSimilar .capsule
+{
+    z-index: 1;
+}
+
+.PicturesBox
+{
+    z-index: -1;
+
+    display: inline-block;
+
+    vertical-align: top;
+
+    background: #000;
+}
+
+.pictureLink
+{
+    position: relative;
+
+    display: inline-block;
+
+    margin: 10px 21px 0 -22px;
+    margin-top: 8px;
+
+    transition: scale .5s;
+    text-align: center;
+    vertical-align: top;
+}
+
+.picture
+{
+    position: relative;
+    z-index: 0;
+
+    display: inline-block;
+
+    max-width: 213px;
+    max-height: 120px;
+
+    transition: transform .2s ease-out, z-index .2s, box-shadow .2s ease-out;
+    transition-delay: .2s;
+
+    background-color: #000;
+
+    backface-visibility: hidden;
+    object-fit: contain;
+}
+
+.pictureLink:hover .picture
+{
+    z-index: 2;
+
+    transform: scale(2);
+
+    box-shadow: 0 0 4px #000;
+}

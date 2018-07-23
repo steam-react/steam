@@ -1,0 +1,30 @@
+.StoreTrending
+{
+    display: inline-block;
+
+    text-align: left;
+}
+
+.header
+{
+    text-align: left;
+
+    composes: storeFrontHeading from '../common/styles/typography.css';
+}
+
+.page
+{
+    display: block;
+}
+
+.item
+{
+    display: inline-block;
+
+    margin: 0 9px 0 0;
+}
+
+.item:last-child
+{
+    margin-right: 0;
+}

@@ -1,0 +1,11 @@
+.StoreFeatured
+{
+    display: inline-flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.header
+{
+    composes: storeFrontHeading from '../common/styles/typography.css';
+}

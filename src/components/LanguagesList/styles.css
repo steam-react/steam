@@ -1,0 +1,35 @@
+.LanguagesList
+{
+    position: relative;
+
+    padding: 6px 0;
+
+    border: 1px solid #171a21;
+    background-color: #171a21;
+}
+
+.language
+{
+    font-size: 13px;
+    font-weight: normal;
+    line-height: normal;
+
+    display: block;
+
+    padding: 5px 12px;
+
+    cursor: pointer;
+    text-align: left;
+    white-space: nowrap;
+    text-decoration: none;
+    text-transform: none;
+
+    color: #b8b6b4;
+
+    composes: fontFamilyMenu from '../common/styles/typography.css';
+}
+
+.language:hover
+{
+    color: #fff;
+}

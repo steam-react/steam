@@ -1,0 +1,667 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LayoutStore-0 1`] = `
+<div
+  className="src-components-LayoutStore-styles__body___1kIl4"
+>
+  <div
+    className="src-components-LayoutStore-styles__header___u8xK6"
+  >
+    <div
+      className="src-components-HeaderStore-styles__HeaderStore___13s-p"
+    >
+      <div
+        className="src-components-HeaderStore-styles__content___2ma4C"
+      >
+        <button
+          className="src-components-HeaderStore-styles__buttonWishlist___28sxh src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__ButtonUppercase___1ayEg src-components-Button-styles__sizeS___3v_OT"
+        >
+          <span
+            className="src-components-Button-styles__caption___23qri"
+          >
+            Wishlist (0)
+          </span>
+        </button>
+        <div
+          className="src-components-ListView-styles__Menu___1Rjz4 src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-NavigationStore-styles__NavigationStore___1HOyw src-components-ListView-styles__MenuHorizontal___2g6wW"
+        >
+          <div
+            className="src-components-NavigationStore-styles__submenu___1hvDA src-components-NavigationStore-styles__item___-TgUl src-components-Icons-styles__TriangleDownAfter___2bEzE src-components-Icons-styles__iconAfter___1eJ3U src-components-Icons-styles__faSolidAfter___180-- src-components-Pulldown-styles__Pulldown___3mAxJ src-components-Pulldown-styles__typeHover___tJwdI"
+          >
+            <a
+              className="src-components-NavigationStore-styles__submenuCaption___3gNSi src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+              href="#"
+            >
+              Your Store
+            </a>
+            <div
+              className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignLeft___1uzGS src-components-Pulldown-styles__popupOpensDown___1OR6f"
+            >
+              <div
+                className="src-components-ListView-styles__Menu___1Rjz4 src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-NavigationStore-styles__submenuPopup___1YZ_C src-components-ListView-styles__MenuVertical___38s9a"
+              >
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Store Home
+                </a>
+                <div
+                  className="src-components-NavigationStore-styles__separator___3pZsT"
+                />
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Popular among friends
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Steam Curators
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Your Queue
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Recently updated
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Followed Games & Software
+                </a>
+                <div
+                  className="src-components-NavigationStore-styles__separator___3pZsT"
+                >
+                  Tags recommended for you:
+                </div>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Action
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  FPS
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Gore
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Shooter
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  VR
+                </a>
+                <div
+                  className="src-components-NavigationStore-styles__separator___3pZsT"
+                />
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Browse all recommended tags
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            className="src-components-NavigationStore-styles__submenu___1hvDA src-components-NavigationStore-styles__item___-TgUl src-components-Icons-styles__TriangleDownAfter___2bEzE src-components-Icons-styles__iconAfter___1eJ3U src-components-Icons-styles__faSolidAfter___180-- src-components-Pulldown-styles__Pulldown___3mAxJ src-components-Pulldown-styles__typeHover___tJwdI"
+          >
+            <a
+              className="src-components-NavigationStore-styles__submenuCaption___3gNSi src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+              href="#"
+            >
+              Games
+            </a>
+            <div
+              className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignLeft___1uzGS src-components-Pulldown-styles__popupOpensDown___1OR6f"
+            >
+              <div
+                className="src-components-ListView-styles__Menu___1Rjz4 src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-NavigationStore-styles__submenuPopup___1YZ_C src-components-ListView-styles__MenuVertical___38s9a"
+              >
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Free to Play
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Early Access
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Demos
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Virtual Reality
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Steam Controller Friendly
+                </a>
+                <div
+                  className="src-components-NavigationStore-styles__separator___3pZsT"
+                >
+                  Browse by genre:
+                </div>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Action
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Adventure
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Casual
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Indie
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Massively Multiplayer
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Racing
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  RPG
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Simulation
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Sports
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Strategy
+                </a>
+                <div
+                  className="src-components-NavigationStore-styles__separator___3pZsT"
+                />
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  See popular tags
+                </a>
+                <div
+                  className="src-components-NavigationStore-styles__separator___3pZsT"
+                >
+                  Browse by platform:
+                </div>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Mac OS X
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  SteamOS + Linux
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            className="src-components-NavigationStore-styles__submenu___1hvDA src-components-NavigationStore-styles__item___-TgUl src-components-Icons-styles__TriangleDownAfter___2bEzE src-components-Icons-styles__iconAfter___1eJ3U src-components-Icons-styles__faSolidAfter___180-- src-components-Pulldown-styles__Pulldown___3mAxJ src-components-Pulldown-styles__typeHover___tJwdI"
+          >
+            <a
+              className="src-components-NavigationStore-styles__submenuCaption___3gNSi src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+              href="#"
+            >
+              Software
+            </a>
+            <div
+              className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignLeft___1uzGS src-components-Pulldown-styles__popupOpensDown___1OR6f"
+            >
+              <div
+                className="src-components-ListView-styles__Menu___1Rjz4 src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-NavigationStore-styles__submenuPopup___1YZ_C src-components-ListView-styles__MenuVertical___38s9a"
+              >
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Software Hub
+                </a>
+                <div
+                  className="src-components-NavigationStore-styles__separator___3pZsT"
+                />
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Animation & Modeling
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Audio Production
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Design & Illustration
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Education
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Game Development
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Photo Editing
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Utilities
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Video Production
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Web Publishing
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            className="src-components-NavigationStore-styles__submenu___1hvDA src-components-NavigationStore-styles__item___-TgUl src-components-Icons-styles__TriangleDownAfter___2bEzE src-components-Icons-styles__iconAfter___1eJ3U src-components-Icons-styles__faSolidAfter___180-- src-components-Pulldown-styles__Pulldown___3mAxJ src-components-Pulldown-styles__typeHover___tJwdI"
+          >
+            <a
+              className="src-components-NavigationStore-styles__submenuCaption___3gNSi src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+              href="#"
+            >
+              Hardware
+            </a>
+            <div
+              className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignLeft___1uzGS src-components-Pulldown-styles__popupOpensDown___1OR6f"
+            >
+              <div
+                className="src-components-ListView-styles__Menu___1Rjz4 src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-NavigationStore-styles__submenuPopup___1YZ_C src-components-ListView-styles__MenuVertical___38s9a"
+              >
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Steam Controller
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Steam Link
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  HTC Vive
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            className="src-components-NavigationStore-styles__submenu___1hvDA src-components-NavigationStore-styles__item___-TgUl src-components-Icons-styles__TriangleDownAfter___2bEzE src-components-Icons-styles__iconAfter___1eJ3U src-components-Icons-styles__faSolidAfter___180-- src-components-Pulldown-styles__Pulldown___3mAxJ src-components-Pulldown-styles__typeHover___tJwdI"
+          >
+            <a
+              className="src-components-NavigationStore-styles__submenuCaption___3gNSi src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+              href="#"
+            >
+              Videos
+            </a>
+            <div
+              className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignLeft___1uzGS src-components-Pulldown-styles__popupOpensDown___1OR6f"
+            >
+              <div
+                className="src-components-ListView-styles__Menu___1Rjz4 src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-NavigationStore-styles__submenuPopup___1YZ_C src-components-ListView-styles__MenuVertical___38s9a"
+              >
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Video Hub
+                </a>
+                <div
+                  className="src-components-NavigationStore-styles__separator___3pZsT"
+                >
+                  Browse by type:
+                </div>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Movie
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Episodic
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Documentary
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Gaming
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Tutorial
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Short
+                </a>
+                <div
+                  className="src-components-NavigationStore-styles__separator___3pZsT"
+                >
+                  Browse by genre:
+                </div>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Action
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Anime
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Comedy
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Drama
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Horror
+                </a>
+                <a
+                  className="src-components-NavigationStore-styles__itemSubmenu___32e-6 src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#"
+                >
+                  Sci-fi
+                </a>
+              </div>
+            </div>
+          </div>
+          <a
+            className="src-components-NavigationStore-styles__item___-TgUl src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+            href="#"
+          >
+            News
+          </a>
+          <div
+            className="src-components-ListView-styles__MenuItem___vYAf1 src-components-NavigationStore-styles__searchBox___1R9YG"
+          >
+            <form
+              action="https://store.steampowered.com/search/"
+              className="src-components-StoreSearch-styles__StoreSearch___1ugO7"
+              method="GET"
+            >
+              <input
+                className="src-components-StoreSearch-styles__input___2ie5x src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                name="term"
+                placeholder="search the store"
+                type="search"
+              />
+              <button
+                className="src-components-StoreSearch-styles__button___J-hG9"
+                type="submit"
+              />
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="src-components-LayoutStore-styles__content___DE03o"
+  >
+    <div
+      style={
+        Object {
+          "backgroundColor": "#999",
+          "color": "#000",
+          "minHeight": "800px",
+        }
+      }
+    >
+      Content
+    </div>
+  </div>
+  <div
+    className="src-components-Footer-styles__Footer___1FL9M"
+  >
+    <div
+      className="src-components-Footer-styles__contentWrapper___3_OXP"
+    >
+      <div
+        className="src-components-Footer-styles__content___3g9u1"
+      >
+        <img
+          className="src-components-Footer-styles__logoSteam___2741M"
+          src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAAAaCAYAAAA67jspAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MTFFMURDQkNDMTBDMTFFNzkyNTdDN0JFOTQ2MjExRjUiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MTFFMURDQkRDMTBDMTFFNzkyNTdDN0JFOTQ2MjExRjUiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDoxMUUxRENCQUMxMEMxMUU3OTI1N0M3QkU5NDYyMTFGNSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDoxMUUxRENCQkMxMEMxMUU3OTI1N0M3QkU5NDYyMTFGNSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PmNNlH0AAATzSURBVHja7JoJbFRVFIbfSEFapE1r1NQNQZFojbggKuKOiktUUIqKcamIxkAUUNxIDCYKQtQENKJVMbjLIigEAoJiaRVUFCOuaBEloIJYrCUuOP4n+Z65Pt6zM+300U7mJF/mzl3eu++8c885984kksmkl5P4ZLecCuKVvOZe4J0161pyfmeKK8T5olBsFK+K6eLj1qDAE8sOar6FS4lHiB67+FkqxRuiQuwj8kU3MVqsFne1eZciJU8Uv6pYI1aqvEkM2gXzek4MdRTfWxwpThJvU3+fGBkxfndxcOD5rK6ElVJIuaPTXiCKqPf7BaVjhIGWiESgrrPIp1wqjv6PwlUxXx+3iatZyueKSeIltY2Mc5WKIZRtLsPFCWKYOFCcKh6g/SGs35VrRJ1YK3aIAU79FvGD2ET5ZmfcHPET9cabIXP7ViwOqV8pvnZ0aYaxQVxG1Sgx9l+Fq4Mt2/PEHuJP8QgPY4OetLL6dIhJ4WMdZZqv/l5MRvEv8sB3iCr63emM7Symiblib3GdqKVtEQr4XSQpz3HGnkVc6MlqGh6Y1+Fcs1/InM26u0pH/fk+hbm05/vL6NRLWFqojj+qPF5UixWBizWw3J4SNyhI7GjBoJnHCzfZ1+4n7gnpd7HYLJZjWYdQ30nUiy/FOPFCyNh3iQc9A/Wmg2/E3cKMa0Ggfanojlup9GOIBU3pwF5+X7EQN/cZYyrUPi3MhxdjPTeFTLCAT7OWdbr4JHFUC1n3Xk7ZfGj//3E7Gxzf7MtvPPjP4nksuSLEv4etVrOc48mCbIX0ctraidPxAra6bg2M3c9sT1jK8gmrz9zWnlFBczuB6b1GFLI/N/tQSn9FXJThXP5hp7xNvB7Rbzlz8XARrlTzQhKkkY+neO/jeEmFvJD3nba+fD6KC2tPYPXlAAL9E7ycYcSP/CiFPy1myfztgvNSnOAgfOBX4hZR2kxlXyUGO99HkIlsDvSrYY7j+L7QaSvG589EMaUhz2OBt0vEHAaKCSQLbkB9TfwhfjFjczIp1xX2IdaUS4+fY/VFUQo3v5OUxa4iotpSfitFRXXDMmuZRK8mKLuQ4OyKKexK3MzttF9Lamjx5gz6jXfG/CVmEwDN9z+GEl2ZS5+gTMF4hsLZ1Hdgpdi9L8TQJqBQXyyjqbX4JmZIj+1Yaat3iq7+WYrlkmw0uhA4u5O1fIS7KUlDgdXEhJmkYY1JDW4gagP0DNZlbmQMaauHe3swhr3K35naaSaCh1dSvEXvS1jKlbrgdtUVkSZdLsrSuH4DPvRZZykGZVQTlWZWP7Gtbe0T6Z4WSvn9sKxz0pzbMnycv5ztfORSNiSpiO2A17N6LEf/oi2epSSaejwrxR/G5uFGNgSpyqekaz3YjFjeXN7ImHsJZPWt7WwkNoU7ii/ABQ1J0+q3kkbNZtNR5aR6vqwnj17SWg+jMnJamKY04KMtszmNILc1hXHF+OEVpG+nOLtMj2uWtWZlN/u0MAOyjKS/q7herEpxXA07PX87XU5eXu9lmbTULz515M3HksJNx283lovb5mKWmOFlqcTxE5sd+tgx66Fs17dFbNXrOJSa6mWxxPmb5lpycrPkC8T9nN1YqngyVp3H5itrJS/m+43hIGgqZxVVWPwH4hhv5yPTnMIzIH3IqSejbDvDXsOh0nfZrvBE7n8p2evDcyL5R4ABADgpcPb+dKcRAAAAAElFTkSuQmCC"
+        />
+        <a
+          className="src-components-Footer-styles__logoValve___21n4T"
+          href="https://www.valvesoftware.com"
+        >
+          <img
+            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAAAaCAYAAAA67jspAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAxBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Q0EyOTgwRUExQ0U5MTFFNDgwMDFCNUU4OERGRTJGQzgiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Q0EyOTgwRTkxQ0U5MTFFNDgwMDFCNUU4OERGRTJGQzgiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiBXaW5kb3dzIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9IjAyMkFDMTE4RDc5NzJBQTMwQURERjgyRTQ5NjgyMDc1IiBzdFJlZjpkb2N1bWVudElEPSIwMjJBQzExOEQ3OTcyQUEzMEFEREY4MkU0OTY4MjA3NSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PrOZC/4AAAO8SURBVHja7FhbSBVRFJ2rNwMt7WEJRQ8wqSiwIgqT8pHJLQ0KetJHSUHkTwl99BFR0YfQj19FUVC/vSitMHvdKHpAkJkWFKHUhxJZ9rCszNvauAd2h5k7Zy4z14hZsJztOTPnnlmzzz57n9D91vYWwzAyjQB+YgNYAfaH8WcymBVo4ivGg52kdVg0fgTfBNp4holgNtstrO1VEjyDG+vBLYFO7lAwa6pl+4O2jjpcdor7mumaAoYD2ZIHJ7GngKfZbgerLO45Bk5nez8YjTPeNPCE0rYK7NGc7x4wwvZe8J7GM2fBcWxX8XtIrAd3sH0FPGwxRi540saTK+G9X70SnOJOHjgBXAzuAj+J/nR+iWHgAPjMYbxKsEhpKwfPaM53hng+W/MZEmMN28vA40r/WjHmUZsxRlrMW1fDv5Di0B/jr27eW6z0L2KxDfa2bofxllu0rXAx3xEJrOJLwl6q9IWEkL/ARo3xloBzBb94Kbi5mZooUfrkB2hwGCdD3B8VKyXCL+7FirRCE9jHdqnyW/lipUSV1WsHWsXNJhFOfnst+E3wu42HFNt4khXo2TS2r4G32M5hT/EL38AbIgzlJzh/E5f54xAPuZ2MjuAk9nW2Z4sNiOL3ArZfgK9chJMoi55IWEkEcpWW2gherzlWIYehItbDc8HNr6pOWMZvHe+o4Gsv+FgRPOKz4A28H8n5pwrBKTy81RxrJYfWEs6UfBFcTtiM42Uu4jd5wiSxufaDHWJVFIBjfRS8C3wkvDrMYSzLZTgx52+GlFa/BO9ir5RCm97xDnzoIpzQi49i3hHzKE9SWKHNe2GC8ZtwBDxlEnl4uh+CSy/O5Xx4vmgf0AwnhH18bkPc5pAyegk1PTRXKoWSJw7PysO9jeBmwTQvK03VQw6KijJVc7PJ5I3GCRF2gAGfBH8OvmaHodU0x8Vm2Qautunr9Uvwp1x50nHuOosMxg5l4nconNQq/bV8NEDZzzwRuvwKKzWKA+gI/h686ObwyqtCgrKValE8NIkcPV45b+K8xcQLxVlMhQvBt1pUvgZXi41xwkqN+P+zw9lP0g+vrDyk2oV3hJSU77ZNJbhb5OMHNOdSadPeE0dwyjA+gGPEx/n5LwtO3tDJRU9Myc+tkMexvpszHavN6S5nOsP5/tG8odrFS6fyuy9OH5Xh54zBE0LCBSPJcCv4D2Pw5FAXL7l0dxIoR3O8TR6883bmkCDFCDBkHk7nInWBJO6Awseuq8hJ8JnMAEFI+X8QisVigQpJxB8BBgBdZchSLVr8xgAAAABJRU5ErkJggg=="
+          />
+        </a>
+        <p
+          className="src-components-Footer-styles__text___3QF-C"
+        >
+          <span>
+            © 2018 Valve Corporation.  All rights reserved. All trademarks are property of their respective owners in the US and other countries.
+          </span>
+          <span>
+            VAT included in all prices where applicable.  
+            <a
+              href="https://store.steampowered.com/privacy_agreement/"
+              rel="noreferrer"
+              target="_blank"
+            >
+              Privacy Policy
+            </a>
+              |  
+            <a
+              href="https://store.steampowered.com/legal/"
+              rel="noreferrer"
+              target="_blank"
+            >
+              Legal
+            </a>
+              |  
+            <a
+              href="https://store.steampowered.com/subscriber_agreement/"
+              rel="noreferrer"
+              target="_blank"
+            >
+              Steam Subscriber Agreement
+            </a>
+              |  
+            <a
+              href="https://store.steampowered.com/steam_refunds/"
+              rel="noreferrer"
+              target="_blank"
+            >
+              Refunds
+            </a>
+          </span>
+        </p>
+      </div>
+    </div>
+    <div
+      className="src-components-Footer-styles__valveLinks___2Ksc7"
+    >
+      <a
+        href="http://www.valvesoftware.com/about.html"
+        rel="noreferrer"
+        target="_blank"
+      >
+        About Valve
+      </a>
+        |  
+      <a
+        href="http://www.steampowered.com/steamworks/"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Steamworks
+      </a>
+        |  
+      <a
+        href="http://www.valvesoftware.com/jobs.html"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Jobs
+      </a>
+        |  
+      <a
+        href="https://steamcommunity.com/greenlight"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Steam Distribution
+      </a>
+        |  
+      <a
+        href="https://store.steampowered.com/digitalgiftcards/"
+        rel="noreferrer"
+        target="_blank"
+      >
+        Gift Cards
+      </a>
+        |  
+      <a
+        href="http://www.facebook.com/Steam"
+        rel="noreferrer"
+        target="_blank"
+      >
+        <img
+          src="data:image/gif;base64,R0lGODlhEAAQAKIHAGF5rEVinmB4q+vu9G2EtP///ztZmP///yH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NURDQUEzOEZDMEUzMTFERkJEOURCNzlBMDY3QTFBQzEiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NURDQUEzOTBDMEUzMTFERkJEOURCNzlBMDY3QTFBQzEiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo1RENBQTM4REMwRTMxMURGQkQ5REI3OUEwNjdBMUFDMSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo1RENBQTM4RUMwRTMxMURGQkQ5REI3OUEwNjdBMUFDMSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAAAcALAAAAAAQABAAAAM+eLrcCibKGYGiWN4sRinRhnlfeGRGqZ2ZamJfDBqiNJD32846zNMs30QRIBiPhM8xQEQelUbmAYKSWBzYRQIAOw=="
+        />
+         Steam
+      </a>
+        |  
+      <a
+        href="http://twitter.com/steam_games"
+        rel="noreferrer"
+        target="_blank"
+      >
+        <img
+          src="data:image/gif;base64,R0lGODlhEAAQANUrAPT09D3O/+Li4pycnODz+pmZme32+uTk5GDW/uz2+fL3+tPT0+Xp6uv1+ePn6Ov1+Orv8r3r++nw85rj/Obr7fD19+zx8+ry9ez1+Y/g/fX29vHx8e7u7uvr6+jo6OXl5d/f3/b29vn5+c3Nzdra2vz8/N3d3ez2+jLL/////8zMzP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH/C1hNUCBEYXRhWE1QPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS4wLWMwNjAgNjEuMTM0Nzc3LCAyMDEwLzAyLzEyLTE3OjMyOjAwICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IFdpbmRvd3MiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NEZCNzhDN0RDMEUzMTFERkIwNjlGNTMxMjQxN0QxREIiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NEZCNzhDN0VDMEUzMTFERkIwNjlGNTMxMjQxN0QxREIiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo0RkI3OEM3QkMwRTMxMURGQjA2OUY1MzEyNDE3RDFEQiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo0RkI3OEM3Q0MwRTMxMURGQjA2OUY1MzEyNDE3RDFEQiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgH//v38+/r5+Pf29fTz8vHw7+7t7Ovq6ejn5uXk4+Lh4N/e3dzb2tnY19bV1NPS0dDPzs3My8rJyMfGxcTDwsHAv769vLu6ubi3trW0s7KxsK+urayrqqmop6alpKOioaCfnp2cm5qZmJeWlZSTkpGQj46NjIuKiYiHhoWEg4KBgH9+fXx7enl4d3Z1dHNycXBvbm1sa2ppaGdmZWRjYmFgX15dXFtaWVhXVlVUU1JRUE9OTUxLSklIR0ZFRENCQUA/Pj08Ozo5ODc2NTQzMjEwLy4tLCsqKSgnJiUkIyIhIB8eHRwbGhkYFxYVFBMSERAPDg0MCwoJCAcGBQQDAgEAACH5BAEAACsALAAAAAAQABAAAAaOwFVBRSwaiQXhIcVsOpmHYWlKrVaJoqzCYFBkv1liaGwIBAiasTpEBLhPKFTkRK+4AcSNHh6PBxJ6G0QchHx9f4QcRB2MfBN0BBaMHUQelnwZkBCWHkQfnxcIfSgBGJ8fRAKqDASifg2qAkQgtCAOEnQnDxS1RCa/wMHBKgMLJMfIyccLAysDI9DR0tDNQQA7"
+        />
+         @steam_games
+      </a>
+    </div>
+  </div>
+</div>
+`;

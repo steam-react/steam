@@ -1,0 +1,61 @@
+.StoreThrobber
+{
+    /* */
+    width: 62px;
+    height: 62px;
+}
+
+.bar
+{
+    /* */
+    display: inline-block;
+
+    width: 12px;
+    height: 68px;
+    margin-right: 6px;
+
+    animation: loading_throbber_bar 1s ease-in-out infinite;
+
+    background-color: #67c1f5;
+}
+
+.bar:nth-child(2)
+{
+    animation-delay: .16s;
+}
+
+.bar:nth-child(3)
+{
+    animation-delay: .32s;
+}
+
+@keyframes loading_throbber_bar
+{
+    0%
+    {
+        transform: scale( 1.0, .6 );
+
+        background-color: #67c1f5;
+    }
+
+    30%
+    {
+        transform: scale( 1.0, 1.0 );
+
+        background-color: #67c1f5;
+    }
+
+    55%
+    {
+        transform: scale( 1.0, .6 );
+
+        background-color: #67c1f5;
+    }
+
+    100%
+    {
+        transform: scale( 1.0, .6 );
+
+        background-color: #67c1f5;
+    }
+}

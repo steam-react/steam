@@ -1,0 +1,132 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LoginForm-0 1`] = `
+<div
+  className="src-components-LoginForm-styles__LoginForm___2dtQ- src-components-common-styles-typography__fontFamilyText___19E07"
+>
+  <div
+    className="src-components-LoginForm-styles__column___1WDy_"
+  >
+    <div
+      className="src-components-LoginForm-styles__wrapper___1DWKP"
+    >
+      <div
+        className="src-components-LoginForm-styles__login___118aD"
+      >
+        <h2
+          className="src-components-LoginForm-styles__heading___2aST8 src-components-common-styles-typography__fontFamilyHeading___xfqgi"
+        >
+          Sign in
+        </h2>
+        <p>
+          To an existing Steam account
+        </p>
+        <form
+          className="src-components-LoginForm-styles__form___2vqA3"
+        >
+          <label
+            className="src-components-LoginForm-styles__field___3xQUC"
+          >
+            <span
+              className="src-components-LoginForm-styles__description___2jrT2"
+            >
+              Steam account name
+            </span>
+            <input
+              className="src-components-LoginForm-styles__textInput___2Tu-q"
+              name="login"
+              type="text"
+            />
+          </label>
+          <label
+            className="src-components-LoginForm-styles__field___3xQUC"
+          >
+            <span
+              className="src-components-LoginForm-styles__description___2jrT2"
+            >
+              Password
+            </span>
+            <input
+              className="src-components-LoginForm-styles__textInput___2Tu-q"
+              name="password"
+              type="password"
+            />
+          </label>
+          <button
+            className="src-components-LoginForm-styles__btnSubmit___3fW4P src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeM___3Iv3Y"
+          >
+            <span
+              className="src-components-Button-styles__caption___23qri"
+            >
+              Sign In
+            </span>
+          </button>
+        </form>
+      </div>
+      <div
+        className="src-components-LoginForm-styles__registration___2shZw"
+      >
+        <h2
+          className="src-components-LoginForm-styles__heading___2aST8 src-components-common-styles-typography__fontFamilyHeading___xfqgi"
+        >
+          Create
+        </h2>
+        <p>
+          A new free account
+        </p>
+        <p>
+          It's free to join and easy to use. Continue on to create your Steam account and get Steam, the leading digital solution for PC and Mac gamers.
+        </p>
+        <a
+          className="src-components-LoginForm-styles__btnRegister___3uGvr src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeM___3Iv3Y"
+          href="https://store.steampowered.com/join/?&snr=1_60_4__62"
+        >
+          <span
+            className="src-components-Button-styles__caption___23qri"
+          >
+            Join Steam
+          </span>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div
+    className="src-components-LoginForm-styles__column___1WDy_"
+  >
+    <div
+      className="src-components-LoginForm-styles__info___3Zo2h"
+    >
+      <h2
+        className="src-components-LoginForm-styles__heading___2aST8 src-components-common-styles-typography__fontFamilyHeading___xfqgi"
+      >
+        Why join Steam?
+      </h2>
+      <ul>
+        <li>
+          Buy and download full retail games
+        </li>
+        <li>
+          Join the Steam Community
+        </li>
+        <li>
+          Chat with your friends while gaming
+        </li>
+        <li>
+          Play your games on any supported platform
+        </li>
+        <li>
+          Schedule a game, tournament, or LAN party
+        </li>
+        <li>
+          Receive automatic game updates, and more!
+        </li>
+      </ul>
+      <img
+        height="176"
+        src="static/media/why_join_preview.9009a0f8.png"
+        width="265"
+      />
+    </div>
+  </div>
+</div>
+`;

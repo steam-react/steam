@@ -1,0 +1,34 @@
+.StoreSpecialOffers
+{
+    display: inline-flex;
+    flex-direction: column;
+    /* */
+}
+
+.page
+{
+    display: grid;
+
+    height: 100%;
+
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 11px;
+    grid-row-gap: 16px;
+}
+
+.header
+{
+    text-align: left;
+
+    composes: storeFrontHeading from '../common/styles/typography.css';
+}
+
+.spotlight
+{
+    grid-row: span 2;
+}
+
+.normal
+{
+    grid-row: span 1;
+}

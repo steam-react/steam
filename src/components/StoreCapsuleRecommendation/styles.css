@@ -1,0 +1,84 @@
+.StoreCapsuleRecommendation
+{
+    position: relative;
+
+    display: inline-block;
+
+    text-decoration: none;
+
+    composes: fontFamilyDefault from '../common/styles/typography.css';
+}
+
+.picture
+{
+    width: 100%;
+    height: auto;
+
+    object-fit: cover;
+}
+
+.name
+{
+    display: block;
+    overflow: hidden;
+
+    white-space: nowrap;
+    text-overflow: ellipsis;
+
+    color: #fff;
+}
+
+.sizeL.StoreCapsuleRecommendation
+{
+    /* */
+    width: 460px;
+    margin-right: 20px;
+}
+
+.sizeL .picture
+{
+    /* */
+}
+
+.sizeL .name
+{
+    /* */
+    font-size: 12px;
+}
+
+.sizeM.StoreCapsuleRecommendation
+{
+    /* */
+    width: 292px;
+    height: 136px;
+}
+
+.sizeM .picture
+{
+    /* */
+    height: 100%;
+}
+
+.sizeM .name
+{
+    /* */
+    font-size: 12px;
+}
+
+.sizeS.StoreCapsuleRecommendation
+{
+    /* */
+    width: 222px;
+    margin-right: 17px;
+}
+
+.sizeS .picture
+{
+    /* */
+}
+
+.sizeS .name
+{
+    /* */
+    font-size: 12px;
+}

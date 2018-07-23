@@ -1,0 +1,5 @@
+```js
+<StoreFrontBlock>
+    Content
+</StoreFrontBlock>
+```

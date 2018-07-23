@@ -1,0 +1,139 @@
+.ButtonBase
+{
+    display: inline-block;
+
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+    text-decoration: none !important;
+
+    composes: fontFamilyButton from '../common/styles/typography.css';
+}
+
+.ButtonBase:focus
+{
+    outline: none;
+}
+
+.caption
+{
+    display: inline-block;
+}
+
+.Button
+{
+    padding: 1px 15px;
+
+    color: #67c1f5;
+    border: none;
+    background: rgba( 103, 193, 245, .2 );
+
+    composes: ButtonBase;
+}
+
+.ButtonIcon::before,
+.ButtonIcon::after
+{
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+
+.sizeS
+{
+    font-size: 12px;
+    line-height: 20px;
+
+    border-radius: 2px;
+}
+
+.sizeM
+{
+    font-size: 15px;
+    line-height: 30px;
+
+    border-radius: 2px;
+}
+
+.sizeL
+{
+    font-size: 18px;
+    line-height: 56px;
+
+    border-radius: 3px;
+}
+
+.Button.sizeL
+{
+    color: #66c0f4;
+    background-image: url('./button-bg-l.jpg');
+    background-position-y: -105px;
+    box-shadow: 0 0 4px #000;
+}
+
+.Button:hover
+{
+    color: #fff;
+    background: linear-gradient( -60deg, #417a9b 5%,#67c1f5 95%);
+}
+
+.Button.sizeL:hover
+{
+    background-image: url('./button-bg-l.jpg');
+    background-position-y: -142px;
+}
+
+.ButtonMinor
+{
+    padding: 0 14px;
+
+    color: #fff;
+    border: 1px solid rgba(255,255,255,.4);
+    background: transparent;
+
+    composes: ButtonBase;
+}
+
+.ButtonMinor:hover
+{
+    color: #fff;
+    border: 1px solid rgba(255,255,255,1);
+}
+
+.ButtonAction
+{
+    padding: 1px 15px;
+
+    color: #d2e885;
+    border: none;
+    background: linear-gradient( to bottom, rgba(121,153,5,1) 5%, rgba(83,105,4,1) 95%);
+    text-shadow: -1px -1px 0 rgba( 0, 0, 0, .1 );
+
+    composes: ButtonBase;
+}
+
+.ButtonAction:hover
+{
+    color: #fff;
+    background: linear-gradient( to bottom, rgba(164,208,7,1) 5%, rgba(107,135,5,1) 95%);
+}
+
+.ButtonUppercase
+{
+    text-transform: uppercase;
+}
+
+.ButtonSecondary
+{
+    padding: 1px 15px;
+
+    color: #e5e4dc;
+    border: none;
+    background-color: #616a72;
+
+    composes: ButtonBase;
+}
+
+.ButtonSecondary:hover
+{
+    color: #fff;
+}

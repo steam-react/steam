@@ -1,0 +1,34 @@
+.body
+{
+    display: flex;
+    flex: 1 0 auto;
+    flex-direction: column;
+
+    background: url('./../LayoutStoreFront/bg_body.png') center top no-repeat #1b2838;
+}
+
+.header,
+.content
+{
+    position: relative;
+
+    width: 940px;
+    padding: 0 16px;
+}
+
+.header
+{
+    margin: 0 auto 36px;
+}
+
+.content
+{
+    flex: 1 0 auto;
+
+    margin: 0 auto;
+}
+
+.footer
+{
+    /* */
+}

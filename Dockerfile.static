@@ -1,0 +1,19 @@
+FROM node:9.11 as builder
+
+RUN npm i -g yarn typescript@2.9
+
+RUN mkdir -p /build
+WORKDIR /build
+
+COPY ./package.json /build/package.json
+COPY ./package-lock.json /build/package.lock
+COPY ./yarn.lock /build/yarn.lock
+RUN yarn
+
+COPY . /build
+RUN yarn build
+
+FROM nginx:alpine
+COPY ./config/nginx.static.conf /etc/nginx/conf.d/default.conf
+COPY --from=builder /build/build /usr/share/nginx/html
+

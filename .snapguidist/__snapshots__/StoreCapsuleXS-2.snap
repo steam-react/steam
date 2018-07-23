@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoreCapsuleXS-2 1`] = `
+<a
+  className="src-components-StoreCapsuleXS-styles__StoreCapsuleXS___zjBQu"
+  href="#"
+>
+  <img
+    className="src-components-StoreCapsuleXS-styles__picture___UDmtk"
+    src="/screenshots/capsule_xs_image.jpg"
+  />
+  <div
+    className="src-components-StoreCapsuleXS-styles__info___12dCI"
+  >
+    <div
+      className="src-components-StorePriceInfo-styles__StorePriceInfoNormal___2s64J src-components-StorePriceInfo-styles__StorePriceInfo___3mzqO src-components-common-styles-typography__fontFamilyCapsule___3HgYh src-components-StorePriceInfo-styles__sizeM___3OgPK"
+    >
+      $29.99
+    </div>
+  </div>
+  <ul
+    className="src-components-StoreCapsuleXS-styles__friends___2aQjX"
+  >
+    <li
+      className="src-components-StoreCapsuleXS-styles__friend___2gO28"
+    >
+      <a
+        className="src-components-UserAvatar-styles__sizeS___3jUjJ src-components-UserAvatar-styles__UserAvatar___eVBHf"
+        href="https://steamcommunity.com/id/afarnsworth/"
+      >
+        <img
+          className="src-components-UserAvatar-styles__userPic___3nQ1i"
+          src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/fd/fdaef0111714471445bb422b8021d3a887c86a99.jpg"
+        />
+      </a>
+    </li>
+  </ul>
+</a>
+`;

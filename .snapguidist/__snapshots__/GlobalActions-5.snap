@@ -1,0 +1,169 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GlobalActions-5 1`] = `
+<div
+  className="src-components-GlobalActions-styles__globalActions___20z6J"
+>
+  <div
+    className="src-components-GlobalActions-styles__globalActionsContainer___3uzxJ"
+  >
+    <a
+      className="src-components-GlobalActions-styles__buttonInstallSteam___1jhq6 src-components-GlobalActions-styles__action___1OLO8 src-components-Button-styles__ButtonSecondary___2LSNC src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeS___3v_OT src-components-Icons-styles__DownloadBefore___2C7lm src-components-Icons-styles__iconBefore___8sNmS src-components-Icons-styles__faSolidBefore___1SHEp"
+      href="https://store.steampowered.com/about/"
+    >
+      <span
+        className="src-components-Button-styles__caption___23qri"
+      >
+        Install Steam
+      </span>
+    </a>
+    <div
+      className="src-components-GlobalActions-styles__action___1OLO8 src-components-Pulldown-styles__Pulldown___3mAxJ"
+    >
+      <button
+        className="src-components-GlobalActions-styles__buttonNotifications___3Kp-q src-components-GlobalActions-styles__buttonNotificationsActive___2BTAP src-components-Button-styles__ButtonSecondary___2LSNC src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeS___3v_OT src-components-Icons-styles__EnvelopeAfter___1q4qy src-components-Icons-styles__iconAfter___1eJ3U src-components-Icons-styles__faSolidAfter___180--"
+      >
+        <span
+          className="src-components-Button-styles__caption___23qri"
+        >
+          2
+        </span>
+      </button>
+      <div
+        className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignRight___1qxdQ src-components-Pulldown-styles__popupOpensDown___1OR6f"
+      >
+        <div
+          className="src-components-ListView-styles__Menu___1Rjz4 src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-NotificationsList-styles__notifications___orA1V src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-ListView-styles__MenuVertical___38s9a"
+        >
+          <a
+            className="src-components-NotificationsList-styles__notification___nE590 src-components-NotificationsList-styles__active___9lL4v"
+            href=""
+          >
+            1
+             
+            new comments
+          </a>
+          <a
+            className="src-components-NotificationsList-styles__notification___nE590 src-components-NotificationsList-styles__active___9lL4v"
+            href=""
+          >
+            1
+             
+            new items in your inventory
+          </a>
+          <a
+            className="src-components-NotificationsList-styles__notification___nE590"
+            href=""
+          >
+            0
+             
+            new invites
+          </a>
+          <a
+            className="src-components-NotificationsList-styles__notification___nE590"
+            href=""
+          >
+            0
+             
+            new gifts
+          </a>
+          <a
+            className="src-components-NotificationsList-styles__notification___nE590"
+            href=""
+          >
+            0
+             
+            unread chat messages
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      className="src-components-GlobalActions-styles__action___1OLO8 src-components-Pulldown-styles__Pulldown___3mAxJ"
+    >
+      <span
+        className="src-components-GlobalActions-styles__buttonUserProfile___7zS_s src-components-GlobalActions-styles__actionLink___1u28x src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-Icons-styles__TriangleDownAfter___2bEzE src-components-Icons-styles__iconAfter___1eJ3U src-components-Icons-styles__faSolidAfter___180-- src-components-Icons-styles__TriangleDownAfter___2bEzE src-components-Icons-styles__iconAfter___1eJ3U src-components-Icons-styles__faSolidAfter___180--"
+      >
+        mvasiliev
+      </span>
+      <div
+        className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignRight___1qxdQ src-components-Pulldown-styles__popupOpensDown___1OR6f"
+      >
+        <div
+          className="src-components-ListView-styles__Menu___1Rjz4 src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-MenuProfile-styles__userProfileMenu___3PiTC src-components-ListView-styles__MenuVertical___38s9a"
+        >
+          <a
+            className="src-components-MenuProfile-styles__userProfileMenuItem___3H4YQ"
+            href="#"
+          >
+            Logout
+          </a>
+          <a
+            className="src-components-MenuProfile-styles__userProfileMenuItem___3H4YQ"
+            href="#"
+          >
+            Account details
+          </a>
+          <a
+            className="src-components-MenuProfile-styles__userProfileMenuItem___3H4YQ"
+            href="#"
+          >
+            Preferences
+          </a>
+          <div
+            className="src-components-ListView-styles__MenuItem___vYAf1 src-components-Pulldown-styles__Pulldown___3mAxJ src-components-Pulldown-styles__typeHover___tJwdI"
+          >
+            <a
+              className="src-components-MenuProfile-styles__userProfileMenuItem___3H4YQ"
+              href="#"
+            >
+              Change language
+            </a>
+            <div
+              className="src-components-Pulldown-styles__popup___2wsay src-components-common-styles-zindex__zIndexPopup___1QOKW src-components-Pulldown-styles__popupAlignUp___2DZHp src-components-Pulldown-styles__popupOpensLeft___XbAXW"
+            >
+              <div
+                className="src-components-ListView-styles__Menu___1Rjz4 src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-LanguagesList-styles__LanguagesList___Kd7UR src-components-ListView-styles__MenuVertical___38s9a"
+              >
+                <a
+                  className="src-components-ListView-styles__MenuItem___vYAf1 src-components-LanguagesList-styles__language___GBIwT src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#lang=bulgarian"
+                >
+                  Български (Bulgarian)
+                </a>
+                <a
+                  className="src-components-ListView-styles__MenuItem___vYAf1 src-components-LanguagesList-styles__language___GBIwT src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#lang=czech"
+                >
+                  čeština (Czech)
+                </a>
+                <a
+                  className="src-components-ListView-styles__MenuItem___vYAf1 src-components-LanguagesList-styles__language___GBIwT src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+                  href="#lang=russian"
+                >
+                  Русский (Russian)
+                </a>
+              </div>
+            </div>
+          </div>
+          <a
+            className="src-components-MenuProfile-styles__userProfileMenuItem___3H4YQ"
+            href="#"
+          >
+            View profile
+          </a>
+        </div>
+      </div>
+    </div>
+    <a
+      className="src-components-GlobalActions-styles__userAvatar___yamQV src-components-UserAvatar-styles__sizeS___3jUjJ src-components-UserAvatar-styles__UserAvatar___eVBHf"
+      href="https://steamcommunity.com/id/mvasiliev/"
+    >
+      <img
+        className="src-components-UserAvatar-styles__userPic___3nQ1i"
+        src="/avatars/maxatwork_medium.jpg"
+      />
+    </a>
+  </div>
+</div>
+`;

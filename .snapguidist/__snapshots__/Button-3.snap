@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button-3 1`] = `
+Array [
+  <a
+    className="src-components-Button-styles__ButtonSecondary___2LSNC src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeS___3v_OT"
+    href="#"
+  >
+    <span
+      className="src-components-Button-styles__caption___23qri"
+    >
+      Press me (s)
+    </span>
+  </a>,
+  <span>
+     
+  </span>,
+  <a
+    className="src-components-Button-styles__ButtonSecondary___2LSNC src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeM___3Iv3Y"
+    href="#"
+  >
+    <span
+      className="src-components-Button-styles__caption___23qri"
+    >
+      Press me (m)
+    </span>
+  </a>,
+  <span>
+     
+  </span>,
+  <a
+    className="src-components-Button-styles__ButtonSecondary___2LSNC src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeL___3KjFL"
+    href="#"
+  >
+    <span
+      className="src-components-Button-styles__caption___23qri"
+    >
+      Press me (l)
+    </span>
+  </a>,
+  <span>
+     
+  </span>,
+]
+`;

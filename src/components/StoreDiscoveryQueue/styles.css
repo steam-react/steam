@@ -1,0 +1,148 @@
+.StoreDiscoveryQueue
+{
+    /* */
+}
+
+.header
+{
+    position: relative;
+
+    composes: storeFrontHeading from '../common/styles/typography.css';
+}
+
+.btnLearnMore
+{
+    position: absolute;
+    right: 0;
+}
+
+.content
+{
+    position: relative;
+
+    padding: 4px 14px 14px;
+}
+
+.link
+{
+    position: absolute;
+    z-index: 5;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+    display: block;
+
+    text-decoration: none;
+}
+
+.arrow
+{
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 50px;
+
+    position: absolute;
+    top: 50%;
+    left: 5%;
+
+    width: 80%;
+    padding: 0 15px;
+
+    transform: translate(0, -50%);
+    white-space: nowrap;
+    text-overflow: ellipsis;
+
+    color: #000;
+    background: linear-gradient( to bottom, #e8f5fc 5%, #cce9f9 95%);
+
+    composes: fontFamilyButton from '../common/styles/typography.css';
+}
+
+.arrow::after
+{
+    position: absolute;
+    top: 7px;
+    right: -18px;
+
+    display: block;
+
+    width: 36px;
+    height: 36px;
+
+    content: ' ';
+    transform: rotate(45deg) scale(1.0);
+
+    background: linear-gradient( 134deg, #e8f5fc 5%,#cce9f9 95%);
+
+    -webkit-backface-visibility: hidden;
+}
+
+.pictures
+{
+    position: relative;
+
+    height: 180px;
+
+    transition: opacity .2s;
+
+    opacity: .8;
+}
+
+.content:hover .pictures
+{
+    opacity: 1;
+}
+
+.picture
+{
+    position: absolute;
+    z-index: 4;
+    top: 0;
+    left: 0;
+
+    width: 386px;
+    height: 180px;
+
+    box-shadow: 0 0 8px 0 #000;
+
+    object-fit: cover;
+}
+
+.picture:nth-child(2)
+{
+    z-index: 3;
+    top: 11px;
+    left: 221px;
+
+    height: 162px;
+
+    box-shadow: 0 0 6px rgba( 0, 0, 0, .6 );
+
+    dth: 345px;
+}
+
+.picture:nth-child(3)
+{
+    z-index: 2;
+    top: 20px;
+    left: 431px;
+
+    width: 306px;
+    height: 144px;
+
+    box-shadow: 0 0 4px rgba( 0, 0, 0, .4 );
+}
+
+.picture:nth-child(4)
+{
+    z-index: 1;
+    top: 28px;
+    left: 641px;
+
+    width: 267px;
+    height: 125px;
+
+    box-shadow: 0 0 2px rgba( 0, 0, 0, .2 );
+}

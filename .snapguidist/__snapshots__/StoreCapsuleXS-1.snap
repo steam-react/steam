@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoreCapsuleXS-1 1`] = `
+<a
+  className="src-components-StoreCapsuleXS-styles__StoreCapsuleXS___zjBQu"
+  href="#"
+>
+  <img
+    className="src-components-StoreCapsuleXS-styles__picture___UDmtk"
+    src="/screenshots/capsule_xs_image.jpg"
+  />
+  <div
+    className="src-components-StoreCapsuleXS-styles__info___12dCI"
+  >
+    <div
+      className="src-components-StorePriceInfo-styles__StorePriceInfoNormal___2s64J src-components-StorePriceInfo-styles__StorePriceInfo___3mzqO src-components-common-styles-typography__fontFamilyCapsule___3HgYh src-components-StorePriceInfo-styles__sizeM___3OgPK"
+    >
+      $29.99
+    </div>
+  </div>
+</a>
+`;

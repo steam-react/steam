@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoreCapsuleRecommendation-1 1`] = `
+Array [
+  <a
+    className="src-components-StoreCapsuleRecommendation-styles__sizeL___2Qftx src-components-StoreCapsuleRecommendation-styles__StoreCapsuleRecommendation___NVNA9 src-components-common-styles-typography__fontFamilyDefault___1HHGb"
+    href="#"
+  >
+    <img
+      className="src-components-StoreCapsuleRecommendation-styles__picture___csiop"
+      src="/screenshots/hl1_00.jpg"
+    />
+    <span
+      className="src-components-StoreCapsuleRecommendation-styles__name___3sPZt"
+    >
+      Half-life
+    </span>
+    <div
+      className="src-components-StorePriceInfo-styles__StorePriceInfoDiscount___w_a2w src-components-StorePriceInfo-styles__StorePriceInfo___3mzqO src-components-common-styles-typography__fontFamilyCapsule___3HgYh src-components-StorePriceInfo-styles__sizeS___3QCFz"
+    >
+      <div
+        className="src-components-StorePriceInfo-styles__discount___W1b8o"
+      >
+        -66%
+      </div>
+      <div
+        className="src-components-StorePriceInfo-styles__prices___2CCDC"
+      >
+        <div
+          className="src-components-StorePriceInfo-styles__priceOriginal___1TlYx"
+        >
+          $29.99
+        </div>
+        <div
+          className="src-components-StorePriceInfo-styles__priceFinal___suo-c"
+        >
+          $9.99
+        </div>
+      </div>
+    </div>
+  </a>,
+  <a
+    className="src-components-StoreCapsuleRecommendation-styles__sizeL___2Qftx src-components-StoreCapsuleRecommendation-styles__StoreCapsuleRecommendation___NVNA9 src-components-common-styles-typography__fontFamilyDefault___1HHGb"
+    href="#"
+  >
+    <img
+      className="src-components-StoreCapsuleRecommendation-styles__picture___csiop"
+      src="/screenshots/hl1_00.jpg"
+    />
+    <span
+      className="src-components-StoreCapsuleRecommendation-styles__name___3sPZt"
+    >
+      Half-life
+    </span>
+    <div
+      className="src-components-StorePriceInfo-styles__StorePriceInfoDiscount___w_a2w src-components-StorePriceInfo-styles__StorePriceInfo___3mzqO src-components-common-styles-typography__fontFamilyCapsule___3HgYh src-components-StorePriceInfo-styles__sizeS___3QCFz"
+    >
+      <div
+        className="src-components-StorePriceInfo-styles__discount___W1b8o"
+      >
+        -66%
+      </div>
+      <div
+        className="src-components-StorePriceInfo-styles__prices___2CCDC"
+      >
+        <div
+          className="src-components-StorePriceInfo-styles__priceOriginal___1TlYx"
+        >
+          $29.99
+        </div>
+        <div
+          className="src-components-StorePriceInfo-styles__priceFinal___suo-c"
+        >
+          $9.99
+        </div>
+      </div>
+    </div>
+  </a>,
+]
+`;

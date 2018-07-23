@@ -1,0 +1,44 @@
+.notifications
+{
+    font-size: 13px;
+
+    display: block;
+
+    padding: 2px;
+
+    border: 1px solid #171a21;
+    background-color: #171a21;
+
+    composes: fontFamilyMenu from '../common/styles/typography.css';
+}
+.notification
+{
+    line-height: 36px;
+
+    display: block;
+
+    padding: 0 8px 0 8px;
+
+    white-space: nowrap;
+    text-decoration: none;
+
+    color: #bfbfbf;
+    border-bottom: 1px solid #262a31;
+}
+
+.notification:last-child
+{
+    border-bottom: none;
+}
+
+.notification:hover
+{
+    color: #fff;
+    background-color: #373d44;
+}
+
+.notification.active,
+.notification.active:hover
+{
+    color: #70ba24;
+}

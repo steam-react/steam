@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoreSearch-0 1`] = `
+<form
+  action="https://store.steampowered.com/search/"
+  className="src-components-StoreSearch-styles__StoreSearch___1ugO7"
+  method="GET"
+>
+  <input
+    className="src-components-StoreSearch-styles__input___2ie5x src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+    name="term"
+    placeholder="search the store"
+    type="search"
+  />
+  <button
+    className="src-components-StoreSearch-styles__button___J-hG9"
+    type="submit"
+  />
+</form>
+`;

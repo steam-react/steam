@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoreDiscoveryQueue-0 1`] = `
+<div
+  className="src-components-StoreDiscoveryQueue-styles__StoreDiscoveryQueue___17WYb"
+>
+  <header
+    className="src-components-StoreDiscoveryQueue-styles__header___2YTB0 src-components-common-styles-typography__storeFrontHeading___trDYD src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+  >
+    Your Discovery Queue
+    <a
+      className="src-components-StoreDiscoveryQueue-styles__btnLearnMore___1JxTB src-components-Button-styles__ButtonMinor___14o2Y src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__ButtonUppercase___1ayEg src-components-Button-styles__sizeS___3v_OT"
+      href="#"
+    >
+      <span
+        className="src-components-Button-styles__caption___23qri"
+      >
+        Learn more
+      </span>
+    </a>
+  </header>
+  <div
+    className="src-components-StoreDiscoveryQueue-styles__content___1UlE_"
+  >
+    <a
+      className="src-components-StoreDiscoveryQueue-styles__link___3PX4L"
+      href="#"
+    >
+      <div
+        className="src-components-StoreDiscoveryQueue-styles__arrow___3D7t8 src-components-common-styles-typography__fontFamilyButton___2qjax"
+      >
+        Click here to begin exploring your queue
+      </div>
+    </a>
+    <div
+      className="src-components-StoreDiscoveryQueue-styles__pictures___29Qse"
+    >
+      <img
+        className="src-components-StoreDiscoveryQueue-styles__picture___20bjM"
+        src="/screenshots/hl1_00.jpg"
+      />
+      <img
+        className="src-components-StoreDiscoveryQueue-styles__picture___20bjM"
+        src="/screenshots/hl2_00.png"
+      />
+      <img
+        className="src-components-StoreDiscoveryQueue-styles__picture___20bjM"
+        src="/screenshots/hl3_00.jpg"
+      />
+      <img
+        className="src-components-StoreDiscoveryQueue-styles__picture___20bjM"
+        src="/screenshots/hl3_01.jpg"
+      />
+    </div>
+  </div>
+</div>
+`;

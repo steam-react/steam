@@ -1,0 +1,52 @@
+.StoreCapsuleXS
+{
+    display: block;
+
+    width: 228px;
+
+    text-decoration: none;
+
+    box-shadow: 0 0 5px #000;
+}
+
+.picture
+{
+    display: block;
+
+    width: 100%;
+}
+
+.info
+{
+    display: block;
+
+    padding: 5px;
+
+    text-align: right;
+
+    background-image: url('./capsule_bg.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.friends
+{
+    position: relative;
+
+    margin: 0;
+    padding: 0;
+    padding: 8px 7px 5px;
+
+    list-style: none;
+
+    border-top: 1px solid #213749;
+    background: linear-gradient( to right, #223b4f 5%,#25435b 95%);
+}
+
+.friend
+{
+    display: inline-block;
+
+    margin: 0 3px 0 0;
+    padding: 0;
+}

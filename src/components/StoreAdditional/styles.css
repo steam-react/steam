@@ -1,0 +1,26 @@
+.StoreAdditional
+{
+    /* */
+}
+
+.throbber
+{
+    display: flex;
+    justify-content: center;
+
+    margin: 20px 0;
+}
+
+.tags
+{
+    overflow: hidden;
+
+    background-color: #000;
+}
+
+.similar
+{
+    overflow: hidden;
+
+    background-color: #1c202a;
+}

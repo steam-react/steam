@@ -1,0 +1,162 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoreCapsuleL-1 1`] = `
+<a
+  className="src-components-StoreCapsuleL-styles__StoreCapsule___1HEcB"
+  href="#"
+>
+  <div
+    className="src-components-StoreCapsuleL-styles__pictureMain___1MmgV src-components-StoreCapsuleL-styles__pictureMainCurrent___hVylt"
+    style={
+      Object {
+        "backgroundImage": "url('/screenshots/hl3_00.jpg')",
+      }
+    }
+  />
+  <div
+    className="src-components-StoreCapsuleL-styles__pictureMain___1MmgV"
+    style={
+      Object {
+        "backgroundImage": "url('/screenshots/hl3_01.jpg')",
+      }
+    }
+  />
+  <div
+    className="src-components-StoreCapsuleL-styles__pictureMain___1MmgV"
+    style={
+      Object {
+        "backgroundImage": "url('/screenshots/hl3_02.jpg')",
+      }
+    }
+  />
+  <div
+    className="src-components-StoreCapsuleL-styles__pictureMain___1MmgV"
+    style={
+      Object {
+        "backgroundImage": "url('/screenshots/hl3_03.jpg')",
+      }
+    }
+  />
+  <div
+    className="src-components-StoreCapsuleL-styles__pictureMain___1MmgV"
+    style={
+      Object {
+        "backgroundImage": "url('/screenshots/hl3_04.jpg')",
+      }
+    }
+  />
+  <div
+    className="src-components-StoreCapsuleL-styles__info___1-3r_ src-components-common-styles-typography__fontFamilyCapsule___3HgYh"
+  >
+    <div
+      className="src-components-StoreCapsuleL-styles__infoBody___1FqCu"
+    >
+      <div
+        className="src-components-StoreCapsuleL-styles__productName___3CkRu"
+      >
+        Half-Life 3
+      </div>
+      <div
+        className="src-components-StoreCapsuleL-styles__pictures___3fXQN"
+      >
+        <div
+          className="src-components-StoreCapsuleL-styles__pictureSecondaryWrapper___3fNV4"
+        >
+          <div
+            className="src-components-StoreCapsuleL-styles__pictureSecondary___3Mgm2"
+            style={
+              Object {
+                "backgroundImage": "url('/screenshots/hl3_01.jpg')",
+              }
+            }
+          />
+        </div>
+        <div
+          className="src-components-StoreCapsuleL-styles__pictureSecondaryWrapper___3fNV4"
+        >
+          <div
+            className="src-components-StoreCapsuleL-styles__pictureSecondary___3Mgm2"
+            style={
+              Object {
+                "backgroundImage": "url('/screenshots/hl3_02.jpg')",
+              }
+            }
+          />
+        </div>
+        <div
+          className="src-components-StoreCapsuleL-styles__pictureSecondaryWrapper___3fNV4"
+        >
+          <div
+            className="src-components-StoreCapsuleL-styles__pictureSecondary___3Mgm2"
+            style={
+              Object {
+                "backgroundImage": "url('/screenshots/hl3_03.jpg')",
+              }
+            }
+          />
+        </div>
+        <div
+          className="src-components-StoreCapsuleL-styles__pictureSecondaryWrapper___3fNV4"
+        >
+          <div
+            className="src-components-StoreCapsuleL-styles__pictureSecondary___3Mgm2"
+            style={
+              Object {
+                "backgroundImage": "url('/screenshots/hl3_04.jpg')",
+              }
+            }
+          />
+        </div>
+      </div>
+      <div
+        className="src-components-StoreCapsuleL-styles__reason___3P7L9 src-components-StoreCapsuleL-styles__reasonByTags___25klM"
+      >
+        <div
+          className="src-components-StoreCapsuleL-styles__reasonText___25baO"
+        >
+          <strong>
+            Recommended
+          </strong>
+          because you played games tagged with
+        </div>
+        <div
+          className="src-components-StoreCapsuleL-styles__reasonTags___nM_zg"
+        >
+          <span
+            className="src-components-StoreCapsuleL-styles__tag___1UIQI"
+          >
+            Action
+          </span>
+          <span
+            className="src-components-StoreCapsuleL-styles__tag___1UIQI"
+          >
+            FPS
+          </span>
+          <span
+            className="src-components-StoreCapsuleL-styles__tag___1UIQI"
+          >
+            Multiplayer
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      className="src-components-StoreCapsuleL-styles__infoFooter___sAvN2"
+    >
+      <div
+        className="src-components-StorePriceInfo-styles__StorePriceInfoNormal___2s64J src-components-StorePriceInfo-styles__StorePriceInfo___3mzqO src-components-common-styles-typography__fontFamilyCapsule___3HgYh src-components-StorePriceInfo-styles__sizeS___3QCFz"
+      >
+        $29.99
+      </div>
+      <div
+        className="src-components-StoreCapsuleL-styles__platforms___39W1F"
+      >
+        <span
+          className="src-components-StoreCapsuleL-styles__platformWindows___verR5 src-components-Icons-styles__WindowsAfter___2OKSF src-components-Icons-styles__iconAfter___1eJ3U src-components-Icons-styles__faBrandsAfter___GCBCF"
+        />
+        <span />
+      </div>
+    </div>
+  </div>
+</a>
+`;

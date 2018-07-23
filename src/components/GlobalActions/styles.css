@@ -1,0 +1,89 @@
+.globalActions
+{
+    display: flex;
+    align-items: flex-start;
+    flex-flow: row;
+
+    padding-top: 6px;
+
+    color: #b8b6b4;
+}
+
+.globalActionsContainer
+{
+    display: inline-block;
+}
+
+.action
+{
+    display: inline-block;
+
+    margin-right: 11px;
+
+    user-select: none;
+    vertical-align: middle;
+}
+
+.actionLink
+{
+    font-size: 11px;
+    line-height: 25px;
+
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: lowercase;
+
+    color: #b8b6b4;
+
+    composes: fontFamilyMenu from '../common/styles/typography.css';
+}
+
+.actionLink:hover
+{
+    color: #fff;
+}
+
+.buttonInstallSteam,
+.buttonLogin,
+.separator
+{
+    composes: action;
+}
+
+.buttonLogin,
+.buttonLanguage,
+.buttonUserProfile
+{
+    composes: actionLink;
+}
+
+.buttonUserProfile,
+.buttonLanguage
+{
+    composes: TriangleDownAfter from '../Icons/styles.css';
+}
+
+.buttonInstallSteam
+{
+    font-size: 11px;
+
+    padding-right: 9px;
+    padding-left: 9px;
+}
+
+.globalActions .buttonNotifications
+{
+    padding: 1px 9px;
+
+    background-color: #262625;
+}
+
+.globalActions .buttonNotificationsActive
+{
+    background-color: #5c7e10;
+}
+
+.userAvatar
+{
+    vertical-align: top;
+}

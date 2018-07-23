@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserAvatar-0 1`] = `
+Array [
+  <a
+    className="src-components-UserAvatar-styles__sizeXS___2HoMz src-components-UserAvatar-styles__UserAvatar___eVBHf"
+    href="https://steamcommunity.com/id/maxatwork/"
+  >
+    <img
+      className="src-components-UserAvatar-styles__userPic___3nQ1i"
+      src="/avatars/maxatwork.jpg"
+    />
+  </a>,
+  <span>
+     
+  </span>,
+  <a
+    className="src-components-UserAvatar-styles__sizeS___3jUjJ src-components-UserAvatar-styles__UserAvatar___eVBHf"
+    href="https://steamcommunity.com/id/maxatwork/"
+  >
+    <img
+      className="src-components-UserAvatar-styles__userPic___3nQ1i"
+      src="/avatars/maxatwork_medium.jpg"
+    />
+  </a>,
+  <span>
+     
+  </span>,
+  <a
+    className="src-components-UserAvatar-styles__sizeM___1DjSi src-components-UserAvatar-styles__UserAvatar___eVBHf"
+    href="https://steamcommunity.com/id/maxatwork/"
+  >
+    <img
+      className="src-components-UserAvatar-styles__userPic___3nQ1i"
+      src="/avatars/maxatwork_medium.jpg"
+    />
+  </a>,
+  <span>
+     
+  </span>,
+  <a
+    className="src-components-UserAvatar-styles__sizeL___1XE1L src-components-UserAvatar-styles__UserAvatar___eVBHf"
+    href="https://steamcommunity.com/id/maxatwork/"
+  >
+    <img
+      className="src-components-UserAvatar-styles__userPic___3nQ1i"
+      src="/avatars/maxatwork_medium.jpg"
+    />
+  </a>,
+]
+`;

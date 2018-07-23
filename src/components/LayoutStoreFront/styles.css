@@ -1,0 +1,115 @@
+.header
+{
+    /* */
+}
+
+.headerWrapper
+{
+    width: 940px;
+    margin: 0 auto 36px;
+    padding: 0 16px;
+}
+
+.header.hasTakeover
+{
+    height: 456px;
+
+    transition: background-position .25s;
+
+    background-color: #f9ce80;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+
+.body
+{
+    display: flex;
+    flex: 1 0 auto;
+    flex-direction: column;
+
+    background: url('./bg_body.png') center top no-repeat #1b2838;
+}
+
+.content
+{
+    position: relative;
+
+    flex: 1 0 auto;
+
+    width: 940px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+.headerWrapper,
+.content
+{
+    transition: padding .25s;
+}
+
+.gutter
+{
+    position: absolute;
+    top: -70px;
+    left: 0;
+
+    overflow: hidden;
+
+    width: 0;
+
+    transition: width .25s;
+}
+
+.gutter.hasTakeover
+{
+    top: 10px;
+}
+
+.takeoverLink
+{
+    display: block;
+
+    height: 380px;
+    margin-top: 10px;
+
+    text-decoration: none;
+}
+
+.footer
+{
+    /* */
+}
+
+@media (min-width: 1280px)
+{
+    .headerWrapper,
+    .content
+    {
+        padding-left: 234px;
+    }
+
+    .gutter
+    {
+        width: 210px;
+    }
+
+    .header.hasTakeover
+    {
+        background-position: calc(50% + 109px) 50%;
+    }
+}
+
+@media (min-width: 1442px)
+{
+    .headerWrapper,
+    .content
+    {
+        padding-right: 234px;
+    }
+
+    .header.hasTakeover
+    {
+        background-position: 50% 50%;
+    }
+}

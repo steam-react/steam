@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button-11 1`] = `
+Array [
+  <p>
+    <button
+      className="src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeS___3v_OT src-components-Icons-styles__EnvelopeBefore___3e1GI src-components-Icons-styles__iconBefore___8sNmS src-components-Icons-styles__faSolidBefore___1SHEp"
+    >
+      <span
+        className="src-components-Button-styles__caption___23qri"
+      >
+        Press me
+      </span>
+    </button>
+    <span>
+       
+    </span>
+    <button
+      className="src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeS___3v_OT src-components-Icons-styles__EnvelopeBefore___3e1GI src-components-Icons-styles__iconBefore___8sNmS src-components-Icons-styles__faSolidBefore___1SHEp src-components-Button-styles__ButtonIcon___2YP1c"
+    />
+  </p>,
+  <p>
+    <button
+      className="src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeM___3Iv3Y src-components-Icons-styles__EnvelopeBefore___3e1GI src-components-Icons-styles__iconBefore___8sNmS src-components-Icons-styles__faSolidBefore___1SHEp"
+    >
+      <span
+        className="src-components-Button-styles__caption___23qri"
+      >
+        Press me
+      </span>
+    </button>
+    <span>
+       
+    </span>
+    <button
+      className="src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeM___3Iv3Y src-components-Icons-styles__EnvelopeBefore___3e1GI src-components-Icons-styles__iconBefore___8sNmS src-components-Icons-styles__faSolidBefore___1SHEp src-components-Button-styles__ButtonIcon___2YP1c"
+    />
+  </p>,
+  <p>
+    <button
+      className="src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeL___3KjFL src-components-Icons-styles__EnvelopeBefore___3e1GI src-components-Icons-styles__iconBefore___8sNmS src-components-Icons-styles__faSolidBefore___1SHEp"
+    >
+      <span
+        className="src-components-Button-styles__caption___23qri"
+      >
+        Press me
+      </span>
+    </button>
+    <span>
+       
+    </span>
+    <button
+      className="src-components-Button-styles__Button___1kuOa src-components-Button-styles__ButtonBase___1v26s src-components-common-styles-typography__fontFamilyButton___2qjax src-components-Button-styles__sizeL___3KjFL src-components-Icons-styles__EnvelopeBefore___3e1GI src-components-Icons-styles__iconBefore___8sNmS src-components-Icons-styles__faSolidBefore___1SHEp src-components-Button-styles__ButtonIcon___2YP1c"
+    />
+  </p>,
+]
+`;

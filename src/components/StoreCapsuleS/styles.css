@@ -1,0 +1,36 @@
+.StoreCapsuleS
+{
+    position: relative;
+
+    display: block;
+
+    width: 306px;
+
+    text-decoration: none;
+
+    box-shadow: 0 0 5px #000;
+}
+
+.picture
+{
+    display: block;
+
+    width: 100%;
+}
+
+.info
+{
+    position: absolute;
+    bottom: 0;
+
+    display: block;
+
+    width: 296px;
+    padding: 5px;
+
+    text-align: right;
+
+    background-image: url('./capsule_bg.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+}

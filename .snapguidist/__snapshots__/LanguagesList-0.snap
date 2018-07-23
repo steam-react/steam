@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LanguagesList-0 1`] = `
+<div
+  className="src-components-ListView-styles__Menu___1Rjz4 src-components-common-styles-typography__fontFamilyMenu___TPnf8 src-components-LanguagesList-styles__LanguagesList___Kd7UR src-components-ListView-styles__MenuVertical___38s9a"
+>
+  <a
+    className="src-components-ListView-styles__MenuItem___vYAf1 src-components-LanguagesList-styles__language___GBIwT src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+    href="#lang=bulgarian"
+  >
+    Български (Bulgarian)
+  </a>
+  <a
+    className="src-components-ListView-styles__MenuItem___vYAf1 src-components-LanguagesList-styles__language___GBIwT src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+    href="#lang=czech"
+  >
+    čeština (Czech)
+  </a>
+  <a
+    className="src-components-ListView-styles__MenuItem___vYAf1 src-components-LanguagesList-styles__language___GBIwT src-components-common-styles-typography__fontFamilyMenu___TPnf8"
+    href="#lang=russian"
+  >
+    Русский (Russian)
+  </a>
+</div>
+`;

@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Carousel-0 1`] = `
+<div
+  style={
+    Object {
+      "textAlign": "center",
+    }
+  }
+>
+  <div
+    className="src-components-Carousel-styles__Carousel___1dNTQ"
+  >
+    <div
+      className="src-components-Carousel-styles__items___2z4ws"
+    >
+      <div
+        className="src-components-Carousel-styles__item___yuFUE src-components-Carousel-styles__itemFocused___1PYU7"
+      >
+        <div
+          style={
+            Object {
+              "background": "#ccc",
+              "height": "300px",
+              "width": "500px",
+            }
+          }
+        >
+          Item 1
+        </div>
+      </div>
+      <div
+        className="src-components-Carousel-styles__item___yuFUE"
+      >
+        <div
+          style={
+            Object {
+              "background": "#ccc",
+              "height": "300px",
+              "width": "500px",
+            }
+          }
+        >
+          Item 2
+        </div>
+      </div>
+      <div
+        className="src-components-Carousel-styles__item___yuFUE"
+      >
+        <div
+          style={
+            Object {
+              "background": "#ccc",
+              "height": "300px",
+              "width": "500px",
+            }
+          }
+        >
+          Item 3
+        </div>
+      </div>
+      <div
+        className="src-components-Carousel-styles__arrowLeft___17IKF"
+      />
+      <div
+        className="src-components-Carousel-styles__arrowRight___bMbHz"
+      />
+    </div>
+    <div
+      className="src-components-Carousel-styles__thumbs___Kdkhx"
+    >
+      <div
+        className="src-components-Carousel-styles__thumb___9nFNy src-components-Carousel-styles__thumbFocused___3eboS"
+      />
+      <div
+        className="src-components-Carousel-styles__thumb___9nFNy"
+      />
+      <div
+        className="src-components-Carousel-styles__thumb___9nFNy"
+      />
+    </div>
+  </div>
+</div>
+`;

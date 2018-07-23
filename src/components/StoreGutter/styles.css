@@ -1,0 +1,68 @@
+.StoreGutter
+{
+    white-space: nowrap;
+
+    composes: fontFamilyMenu from '../common/styles/typography.css';
+}
+
+.cardsPromoLink
+{
+    display: block;
+
+    width: 210px;
+    height: 116px;
+    margin-bottom: 7px;
+
+    background-image: url('./steamcards.png');
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: cover;
+}
+
+.section
+{
+    /* */
+    margin-bottom: 15px;
+}
+
+.sectionHeader
+{
+    font-size: 11px;
+
+    text-transform: uppercase;
+
+    color: #c6d4df;
+}
+
+.sectionItems
+{
+    font-size: 13px;
+
+    margin: 0;
+    padding: 0;
+
+    list-item: none;
+}
+
+.sectionItem
+{
+    list-style: none;
+}
+
+.sectionLink
+{
+    line-height: 16px;
+
+    display: block;
+
+    margin: 7px 0;
+
+    text-decoration: none;
+
+    color: #66c0f4;
+}
+
+.sectionLink:hover
+{
+    color: #fff;
+}

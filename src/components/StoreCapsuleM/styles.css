@@ -1,0 +1,58 @@
+.StoreCapsuleM
+{
+    position: relative;
+
+    min-height: 390px;
+
+    text-decoration: none;
+
+    color: #fff;
+    box-shadow: 0 0 5px #000;
+
+    composes: fontFamilyCapsule from '../common/styles/typography.css';
+}
+
+.name
+{
+    font-size: 17px;
+    font-weight: 300;
+    font-weight: normal;
+
+    margin: 0 0 10px;
+    padding-top: 2px;
+
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #fff;
+}
+
+.picture
+{
+    width: 306px;
+    height: 350px;
+
+    object-fit: cover;
+}
+
+.info
+{
+    font-size: 12px;
+
+    position: absolute;
+    bottom: 0;
+
+    box-sizing: border-box;
+    width: 100%;
+    padding: 8px 16px 12px 16px;
+
+    color: #9099a1;
+    background-image: url('./capsule_bg.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.body
+{
+    color: #acdbf5;
+}

@@ -1,0 +1,18 @@
+:global
+{
+    @import './normalize.css';
+}
+
+html
+{
+    height: 100%;
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+
+    color: #c6d4df;
+    border: 0;
+}

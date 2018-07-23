@@ -1,0 +1,58 @@
+:global
+{
+    @import '../fonts/motiva_sans.css';
+}
+
+.fontFamilyDefault
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fontFamilyButton
+{
+    font-family: 'Motiva Sans', Sans-serif;
+}
+
+.fontFamilyMenu,
+.fontFamilyCapsule,
+.fontFamilyHeading,
+.fontFamilyText
+{
+    font-family: 'Motiva Sans', Arial, Helvetica, Verdana, sans-serif;
+}
+
+.textNormal
+{
+    font-size: 13px;
+
+    composes: fontFamilyDefault;
+}
+
+.textSmall
+{
+    font-size: 11px;
+
+    composes: fontFamilyDefault;
+}
+
+.heading2
+{
+    font-size: 17px;
+
+    composes: fontFamilyDefault;
+}
+
+.storeFrontHeading
+{
+    font-size: 17px;
+
+    margin: 0 0 10px;
+    padding-top: 2px;
+
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #fff;
+
+    composes: fontFamilyMenu;
+}

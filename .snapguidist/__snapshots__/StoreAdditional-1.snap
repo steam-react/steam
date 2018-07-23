@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoreAdditional-1 1`] = `
+<div
+  className="src-components-StoreAdditional-styles__StoreAdditional___2fNbl"
+>
+  <div
+    className="src-components-StoreAdditional-styles__throbber___1efoK src-components-StoreFrontBlock-styles__StoreFrontBlock___10hiJ"
+  >
+    <div
+      className="src-components-StoreAdditional-styles__throbber___1efoK"
+    >
+      <div
+        className="src-components-StoreThrobber-styles__StoreThrobber___1aLvL"
+      >
+        <div
+          className="src-components-StoreThrobber-styles__bar___AGddG"
+        />
+        <div
+          className="src-components-StoreThrobber-styles__bar___AGddG"
+        />
+        <div
+          className="src-components-StoreThrobber-styles__bar___AGddG"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

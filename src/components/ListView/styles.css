@@ -1,0 +1,24 @@
+.Menu
+{
+    composes: fontFamilyMenu from '../common/styles/typography.css';
+}
+
+.MenuVertical
+{
+    /* */
+}
+
+.MenuHorizontal
+{
+    /* */
+}
+
+.MenuHorizontal .MenuItem
+{
+    display: inline-block;
+}
+
+.MenuVertical .MenuItem
+{
+    display: block;
+}

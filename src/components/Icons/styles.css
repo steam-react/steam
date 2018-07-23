@@ -1,0 +1,136 @@
+:global
+{
+    @import './fontawesome/css/fa-brands.css';
+    @import './fontawesome/css/fa-regular.css';
+    @import './fontawesome/css/fa-solid.css';
+}
+
+.faRegular,
+.faRegularBefore::before,
+.faRegularAfter::after
+{
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 400;
+}
+
+.faSolid,
+.faSolidBefore::before,
+.faSolidAfter::after
+{
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+}
+
+.faBrands,
+.faBrandsBefore::before,
+.faBrandsAfter::after
+{
+    font-family: 'Font Awesome 5 Brands';
+    font-weight: 400;
+}
+
+.iconBefore::before
+{
+    display: inline-block;
+
+    margin-right: .65em;
+}
+
+.iconAfter::after
+{
+    display: inline-block;
+
+    margin-left: .65em;
+}
+
+.EnvelopeBefore,
+.DownloadBefore,
+.TriangleDownBefore,
+.SearchBefore,
+.LeftAngle,
+.RightAngle
+{
+    composes: iconBefore;
+    composes: faSolidBefore;
+}
+
+.EnvelopeAfter,
+.DownloadAfter,
+.TriangleDownAfter,
+.SearchAfter,
+.LeftAngle,
+.RightAngle
+{
+    composes: iconAfter;
+    composes: faSolidAfter;
+}
+
+.WindowsBefore,
+.MacBefore,
+.LinuxBefore
+{
+    composes: iconBefore;
+    composes: faBrandsBefore;
+}
+
+.WindowsAfter,
+.MacAfter,
+.LinuxAfter
+{
+    composes: iconAfter;
+    composes: faBrandsAfter;
+}
+
+.EnvelopeBefore::before,
+.EnvelopeAfter::after
+{
+    content: '\f0e0';
+}
+
+.DownloadBefore::before,
+.DownloadAfter::after
+{
+    content: '\f019';
+}
+
+.TriangleDownBefore::before,
+.TriangleDownAfter::after
+{
+    content: '\f0d7';
+}
+
+.SearchBefore::before,
+.SearchAfter::after
+{
+    content: '\f002';
+}
+
+.WindowsBefore::before,
+.WindowsAfter::after
+{
+    content: '\f17a';
+}
+
+.LinuxBefore::before,
+.LinuxAfter::after
+{
+    content: '\f1b6';
+}
+
+.MacBefore::before,
+.MacAfter::after
+{
+    content: '\f179';
+}
+
+.LeftAngle::before,
+.LeftAngle::after
+{
+    content: '\f104';
+}
+
+.RightAngle::before,
+.RightAngle::after
+{
+    content: '\f105';
+}
