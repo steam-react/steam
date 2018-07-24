@@ -45,10 +45,10 @@ npm i -g typescript@2.9
 
 ```bash
 # Clone repo
-git clone https://maxatwork@bitbucket.org/steamexperiment/steam-store-react.git
+git clone https://github.com/steam-react/steam.git
 
 # Enter directory with source code
-cd steam-store-react
+cd steam
 
 # Install node_modules
 yarn
